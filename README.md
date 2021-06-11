@@ -5,8 +5,9 @@ This project was carried on as a Master's semester project, under the supervisio
 ## Requirements
 The following libraries were used for this project: 
 
-| matplotlib | 3.3.4  |
+| library    | version|
 |------------|--------|
+| matplotlib | 3.3.4  |
 | numpy      | 1.19.2 |
 | pandas     | 1.2.3  |
 | python     | 3.8.8  |

@@ -39,6 +39,6 @@ The project is structured as follows:
     ├── recreate_date.ipynb     	# Jupyter notebook using the scripts for recreating step by step the final dataset
     ├── result_analysis.ipynb   	# Jupyter notebook running the Interrupted Time Series analysis
     ├── report.pdf              	# Report detailing various aspects of the project
-    ├── algorithm_diagram.pdf  		# Diagram summarizing the algorithm for creating the dataset
+    ├── algorithm_diagram.png  		# Diagram summarizing the algorithm for creating the dataset
     └── README.md
 ```

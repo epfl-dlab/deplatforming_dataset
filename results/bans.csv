@@ -1,0 +1,294 @@
+entity	platform	g_id	id	score	nb_comments	ban_date
+Sargon of Akkad	twitter	/m/0lz99	['5qizj8', '6srpeo']	[5, 475]	[7, 27]	{'2019-04', '2017-01'}
+Al Jazeera	snapchat	/m/027glbp	['70sjh9', '70ua97', '70skg1', '70sx7j', '70skpe', '70sx45', '70t63h', '70ua1i', '70ua99', '70uehc', '70ujyc', '70ur7e', '70v5v1', '70wy9f', '7144gs', '70smld', '70t5sj', '70ts7h', '70u39p', '70uaa9', '70uaw7', '70uh8a', '70unan', '70unr0', '70uo3s', '70up7x', '70uq6n', '70wgwa', '70wig9', '70wlx8', '70wm2c', '70woub', '70wwph', '70x0c0', '70yiqv', '70yj32', '70wv0j', '70xvgj', '70zx12']	[1, 1, 49, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 212, 6, 1, 1, 1, 6, 3, 1, 1, 1]	[0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 3, 0, 0, 0, 0, 0, 0, 0, 0]	{'2017-09'}
+Alex Jones	facebook	/m/01_6j_	['92akue', '92kp50', '92kph9', '92q4k2', '92q4rk', '92q4vd', '951kby', '951kf2', '95aaqw', '95rbo4', '95rpfq', 'bk3a9i', 'bk86vk', 'bk8hsr', 'bk95cy', 'bk99ow', 'bk3eyw', 'bk65my', 'bkamao', 'blk4jj', '929m2o', '92bqsh', '92br7x', '92bu9h', '92bxra', '92c6uy', '92c6v7', '92c8vb', '92cb0h', '92cfhb', '92cg7e', '92cnxb', '92ct0y', '92dvml', '92ec1g', '92egq2', '92ewxy', '92fd5z', '92qryk', '92zc9i', '93jzem', '944vqw', '92fgkh', '92r3ni', '93098t', '93kxeq', '94503f', '92g0fw', '92g7wb', '92hw2t', '939jhy', '93uj44', '92i58k', '93al7v', '93vs0s', '92iz8a', '92lc6f', '92ndcp', '92o4o9', '92u8as', '92ufs5', '92uhh6', '92w7sb', '9318xf', '93m0l6', '9505lg', '9505r4', '9505ze', '9506na', '951dbc', '950m8q', '950n87', '950nf3', '950mjg', '9513ay', '9519l6', '951d6f', '9514f7', '9516jg', '95151l', '951jfz', '9519nu', '951di7', '951dsq', '951e2s', '951kx4', '951rmc', '951s0y', '951thf', '951tvl', '951z9n', '952rm1', '952ze6', '9533h2', '9539sr', '953vm7', '954x27', '954q1q', '954tyh', '955fkm', '955ney', '955v0u', '9560jf', '95672k', '9589cl', '95j45a', '96fjsb', '96fjzg', '96fkfl', '96fkn8', '96foj9', '96gmbo', '96pd5s', '96mx3b', '96sl7o', '96yc85', '987oxd', '9a4wy1', '79dp0e', '79dp5q', 'bjy1el', 'bjyd8s', 'bjypkg', 'bjyz73', 'bjz7kk', 'bk0kl6', 'bk0pcp', 'bk0prc', 'bjy3po', 'bjy3um', 'bjy40e', 'bjy4cb', 'bjy6s2', 'bjy4zf', 'bjy90w', 'bjy92p', 'bjz592', 'bjz92q', 'bjy9db', 'bjycj8', 'bjyhwy', 'bjyis0', 'bjynew', 'bjynvz', 'bjyoz0', 'bk0tug', 'bjyqsz', 'bjyr3u', 'bjysep', 'bjyusm', 'bjyvbg', 'bk1lwp', 'bjyzx2', 'bjz0na', 'bub9tq', 'bubclk', 'bjz18t', 'bjz2a2', 'bjz49l', 'bjz6bp', 'bjz8ij', 'bjz9sj', 'bjzzt7', 'bk0n94', 'bk0pmk', 'bk0qq1', 'bk2s54', 'bk33o6', 'bk3tw6', 'bk48wt', 'bk56zw', 'bjz8p6', 'bjzao8', 'bjzgto', 'bk05vx', 'bk0bhj', 'bk0mdr', 'bk0qul', 'bk0szc', 'bk12g3', 'bk1bv4', 'bk1erd', 'bk1hbi', 'bk1igz', 'bk1k6k', 'bk1mkj', 'bk4q1s', 'bkk21w', 'bk1jkk', 'bk1m8b', 'bk1mjq', 'bk1n7q', 'bk34aa', 'bk3916', 'bk1njl', 'bk1nk6', 'bk1xbz', 'bk1y1u', 'bk1ytr', 'bk2a7h', 'bk39ln', 'bk4sr4', 'bk2j20', 'bk4zyc', 'bk60we', 'bkac5t', 'bk2wqh', 'bk38lx', 'bk3zw8', 'bk4i1p', 'bk4l5m', 'bk63xo', 'bk96bn', 'bkcpno', 'bkeow3', 'bkj2jn', 'bklwod', 'bklyso', 'bkuwat', 'bl384n', 'bl8kv3', 'ceq9kk']	[18, 1, 1, 2, 1, 2, 68, 1, 1, 8, 1, 6, 5074, 1, 1, 2, 1, 50, 1, 3, 1, 2702, 74, 1, 34, 1, 1, 1, 1, 43, 2274, 1, 42, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 27, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1403, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 28, 36, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 183, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 1096, 3, 72, 1, 190, 22, 1, 1, 52, 1, 110, 1, 1, 1, 1, 2, 1, 100, 1, 1, 480, 1, 1, 1, 1277, 1, 0, 1, 1, 18, 1, 1, 2, 1, 1, 1, 1, 142, 11, 1, 1, 1, 1, 1, 1, 1, 72, 1, 22, 89, 1, 1, 1, 49, 18, 1, 1, 1, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1, 1, 10, 1, 25, 1, 1, 1, 1, 1, 1, 1, 1, 424, 1, 1, 0, 2, 2621, 2, 7, 1, 3, 4, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 26, 1, 3, 1]	[16, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 1, 1393, 0, 0, 0, 0, 15, 0, 0, 0, 381, 23, 0, 17, 0, 0, 0, 0, 177, 49, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 11, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 1, 1, 1, 0, 0, 1, 0, 8, 0, 181, 6, 11, 0, 94, 0, 0, 0, 15, 0, 14, 0, 0, 1, 1, 0, 0, 311, 0, 0, 193, 0, 0, 0, 276, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 19, 3, 0, 0, 0, 0, 0, 0, 0, 14, 0, 3, 12, 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 1, 0, 0, 11, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0, 0, 4, 2094, 0, 16, 0, 1, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 38, 0]	{'2018-08', '2019-05'}
+Alex Jones	instagram	/m/01_6j_	['bjyhfu', 'bjyhpr', 'bjyhv6', 'bjyicj', 'bjyiup', 'bjyrkr', 'bjysdu', 'bk9gn8', 'bk9wum', 'bkir41']	[1, 4, 1, 1, 1, 1, 1, 0, 0, 1]	[0, 0, 1, 0, 0, 0, 1, 0, 0, 0]	{'2019-05'}
+Alex Jones	twitter	/m/01_6j_	['9dn5gm', '9dnh44', '9ds7hf', '9enqjm', '9lrzpy', 'amb3sl', 'anii3c', 'axqa21', 'b00p2x', '95lej7', '95lekd', '9614o6', '961a1q', '97e3ot', '97e6lz', '97eirm', '97eps2', '97eznk', '97fm0o', '97f1yi', '97fgp0', '97f28y', '97faca', '97f2i8', '97f4dp', '97f5w1', '97fkrc', '97g8jr', '97f88x', '97h7hr', '97h7xt', '97h93b', '97iam1', '97ibkg', '97f8dq', '97fb2q', '97fdrx', '97fdxb', '97fu1o', '97g3cw', '97gcso', '97gd4e', '97gnz4', '97gd83', '97giga', '97gq5i', '97hgdu', '97hspc', '97gj93', '97gmmf', '97gpln', '97gpug', '97gpx7', '97gr6b', '97grvi', '97gvgd', '97h07k', '97h3u5', '97h8cn', '97hb5a', '97j6r4', '97jz6g', '98an4k', '97hc97', '97hj37', '97hl0i', '97hm3n', '97inew', '97j3fl', '97jhd6', '97jucs', '97k7hp', '97kmj1', '97ktvz', '97wmc2', '97j72o', '97jfty', 'afqo0q', '97jobm', '97joje', '97jp9y', '97jph5', '97jqlw', '97jqod', '97jx37', '97jyb8', '97k22k', '97lwaj', '97jqm4', '97jrz2', '97jsuy', '97jtbg', '97ju6e', '97juzg', '97jvlp', '97jyyf', '97jzci', '97k7ra', '97kbfa', '97kbfl', '97lmt5', '97lqcl', '97lqj6', '97lr8a', '97lsrm', '97lxzs', '97lxzx', '97m4rz', '97mu1y', '97n3dr', '97n7fo', '97r6jr', '97s6bc', '97s870', '986zbw', '98gkuy', '9dmx00', '9dmxcc', '9dmxkm', '9dmyjc', '9dmym3', '9dmzee', '9dn021', '9dn0g9', '9dn1xd', '9dnalz', '9dnjda', '9dnpsu', '9dnx64', '9dnx91', '9do0qd', '9dowfh', '9dp4z2', '9dp5a2', '9dp5m5', '9dpjbx', '9dtw9t', '9dv1ah', '9e2bv3', '9dmzlg', '9dn0p3', '9dn2e5', '9dn2eu', '9dn4ha', '9dn7d3', '9dnhon', '9dnlea', '9dnokm', '9do0sz', '9do2zu', '9dosrh', '9dpm80', '9dpq42', '9drrbt', '9dsw54', '9dn1ec', '9dn1zj', '9dn3f8', '9dnbek', '9dnbgc', '9dnee7', '9dnjt7', '9dnmuu', '9dnu0i', '9dnumz', '9dnytg', '9dp85g', '9dqk6q', '9dn1k7', '9dn1ui', '9dn1w0', '9dn2no', '9dn2o7', '9dn3ay', '9dnlxk', '9dnnyf', '9dnp79', '9dtn37', '9dn2ac', '9dn2dd', '9dn2iv', '9dn57a', '9dn5x7', '9dn66b', '9dnm2r', '9dnp70', '9dn6tl', '9dnjq3', '9dn7f4', '9dn8h8', '9dnbkt', '9dnd9t', '9dneb4', '9dniwt', '9dnv2s', '9dnzaf', '9do3mn', '9do710', '9do721', '9do8ip', '9do91u', '9dp0lg', '9dp892', '9dph4n', '9dpj6f', '9dq69u', '9ekz3t', '9eo05h', '9kidly', '9nbgnq', 'b41uxc', 'b41wdw', 'bk0nro', 'bmq65v', 'c1nrux']	[1, 12, 0, 81, 1, 63, 24, 2, 0, 1, 1, 1, 1, 3360, 30, 0, 1, 19, 1, 1, 1, 1, 1, 1, 1, 426, 1, 6, 10, 1, 1, 1, 31, 1, 0, 0, 873, 1, 1, 1, 1, 4, 1, 1, 1, 1, 8, 42, 180, 3, 0, 1, 1, 1, 1, 1, 1, 31, 1, 0, 0, 132, 0, 1, 1, 1, 1, 1, 3707, 4, 1, 28, 1, 1, 1, 1, 1, 3, 60, 2, 1, 1, 1, 1, 15, 293, 2, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 16, 1, 1, 1, 1, 1, 1, 1, 1, 26, 1, 1, 1, 1, 21, 1, 60, 25, 19, 11, 8, 7, 1, 6, 19, 1, 1, 1, 1, 1, 2, 1, 1, 21, 159, 0, 2, 1, 1, 343, 188, 5, 2, 38, 1, 87, 58, 35, 1, 1, 0, 1, 1, 1, 1, 3, 4, 1, 1, 1, 1, 35, 2, 5, 1, 6, 1, 1, 2, 33, 1, 413, 3, 1, 3, 15, 2, 5, 1, 1, 1, 1, 1, 76, 1, 2, 1, 2, 135, 2, 1, 1, 2, 6, 1, 1, 1, 1, 1, 1, 20, 100, 14, 10, 0, 1, 0, 1, 0, 683, 4, 189, 9, 2, 1]	[0, 0, 1, 11, 0, 3, 44, 0, 4, 0, 0, 0, 0, 559, 5, 3, 0, 3, 0, 1, 0, 0, 0, 0, 0, 60, 0, 4, 7, 0, 0, 0, 6, 0, 0, 1, 27, 0, 0, 0, 0, 3, 0, 0, 0, 1, 16, 13, 2, 0, 27, 0, 0, 0, 1, 1, 0, 14, 0, 0, 0, 29, 1, 0, 0, 1, 0, 0, 355, 0, 0, 43, 0, 0, 0, 0, 0, 0, 30, 0, 0, 0, 0, 0, 18, 75, 3, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 19, 3, 4, 4, 0, 0, 0, 4, 0, 2, 1, 1, 1, 0, 0, 0, 1, 2, 15, 8, 1, 1, 1, 5, 1, 19, 0, 6, 0, 31, 9, 90, 0, 0, 0, 0, 0, 0, 0, 1, 6, 0, 1, 1, 1, 21, 0, 0, 1, 12, 0, 4, 0, 12, 0, 127, 0, 0, 0, 4, 0, 58, 0, 0, 0, 0, 0, 35, 0, 0, 0, 1, 5, 0, 0, 0, 0, 3, 0, 2, 0, 0, 0, 0, 0, 0, 2, 9, 0, 0, 32, 1, 0, 19, 0, 10, 0, 0, 1]	{'2018-09'}
+TJ Kirk	twitter	/g/11g6w1t893	['971r82']	[25]	[14]	{'2018-08'}
+Amos Yee	facebook	/m/0131js8z	['7c6otg']	[49]	[17]	{'2018-05'}
+The Anthony Cumia Show	twitter	/m/012vj47m	['9b3yzm', '6lxp4m', '6m4egf']	[1, 3, 214]	[0, 1, 8]	{'2017-07'}
+Julian Assange	twitter	/m/0b6k2_z	['7lzv02', '7m9e42']	[9, 1]	[18, 0]	{'2017-12'}
+Austin Petersen	facebook	/g/11bxfh4lzz	['84iyqe', '84j3ur']	[42, 831]	[0, 3]	{'2018-03'}
+Azealia Banks	facebook	/m/0hnfbjv	['5lzeov', '5lzkue', '5m0dvl']	[300, 3, 1]	[182, 3, 0]	{'2017-01'}
+Azealia Banks	twitter	/m/0hnfbjv	['8piqum', '4j7nbm', 'cbe69o', '4j2y29']	[3, 10, 87, 0]	[5, 23, 4, 1]	{'2018-06', '2019-10', '2016-05'}
+Baked Alaska	twitter	/g/11f0krpt3c	['7d8nrt']	[57]	[47]	{'2017-11'}
+Martin Shkreli	twitter	/m/0hgmzsd	['5mv4ma']	[26]	[3]	{'2017-05', '2017-01'}
+Belle Delphine	instagram	/g/11h9bn8qlv	['cf3y7x', 'cf6oy0', 'cfdwsq', 'cfihen', 'cfk1nd', 'cfldvy']	[18, 4, 10, 2, 34, 1]	[11, 5, 0, 0, 15, 1]	{'2019-07'}
+Ben Garrison	instagram	/g/11dxdyy7_b	['be316d', 'beaxyc', 'bebr4w', 'be61ey', 'be7kqi', 'be7ksk']	[60, 6, 1, 4541, 0, 4]	[3, 1, 0, 87, 2, 1]	{'2019-04'}
+Kris Paronto	twitter	/g/11fy_qpdp_	['9ef395', '9eg1bb', '9eh14h', '9evso0', '9ez0gn', '9fg197']	[1, 1, 1, 2, 69, 1]	[1, 0, 0, 0, 1, 0]	{'2018-09'}
+Yair Netanyahu	facebook	/m/0j5wlrz	['a6sy0j', 'a6tfw9', 'a6zifb', 'a7ceni']	[21, 2, 1, 1]	[0, 0, 0, 0]	{'2018-12'}
+BitChute	reddit	/g/11gbwsyy7c	['bx9d8e', 'cnz7ca']	[6, 161]	[0, 52]	{'2019-06'}
+Blaire White	facebook	/g/11f53qsdg3	['4x260e', '4x2jt9']	[548, 19]	[111, 1]	{'2017-02'}
+Bob the Drag Queen	grindr	/m/011fbcqr	['5j9vv7']	[14]	[1]	{'2016-12'}
+Brandon Straka	facebook	/g/11qnrs8tz9	['9fze7a']	[1]	[0]	{'2018-09'}
+Britain First	facebook	/m/0tkjd7n	['84czzc', '84dxdm', '84dyf4', '84e1qj', '84cvl0', '84cvzu', '84cw0d', '84cxsl', '84cxuo', '84cy33', '84d0no', '84d2ic', '84d3c0', '84d86h', '84dx3j', '84dz80', '84dz8w', '84dz9y', '84e7vr', '84ja7z', '84cvro', '84cvwi', '84dswi', '84dtst', '84dy6c', '84ecjf', '84fk1l', '84gs4h', '84cvvf', '84cy8w', '84cz0l', '84d0up', '84d2pz', '84d313', '84d3i7', '84dd3g', '84du87', '84g76t', '84jy2s', '84l2i1', '84dguk', '84e7di', '84ea3z', '84ehya', '84ehyy', '84elm5', '84fb7p', '84fido', '84g1gm', '84g2cs', '84g2fr', '84g3dv', '84i7wg', '84kk4v', '84q9wk', '84t0j6', '84t0j8', '84t0jn', '84t0js', '84t0ju', '84t6gm', '84t72m', '84t7c2', '84u5dd', 'adgvnt', 'adgym2', 'adigr8', 'adoe6q', 'adoe7e', 'adolev', 'af62ia']	[51, 1, 148, 1, 802, 13, 26, 17, 1, 1361, 1, 0, 1, 1, 18, 24, 2, 1, 1, 1, 0, 1, 574, 2, 1, 3, 1, 2, 1, 39, 1, 1, 2, 1, 1, 47, 1, 4, 9, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 89, 1, 1, 1, 1, 3, 23, 2, 8, 0, 5, 1, 1, 1, 1, 1, 1, 3, 47, 2, 2, 1]	[32, 0, 14, 0, 437, 7, 1, 4, 0, 457, 0, 4, 2, 0, 0, 8, 1, 0, 0, 0, 1, 0, 353, 1, 0, 0, 0, 0, 0, 50, 1, 1, 0, 0, 0, 25, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 1, 21, 1, 0, 1, 8, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 1]	{'2019-04', '2018-03'}
+Britain First	twitter	/m/0tkjd7n	['7klr95', '7kltzj', '7klwb7', '7klwie', '7klwr8', '7klwzs', '7km266', '7km2px', '7kmy9f', '7kn2im', '7knp8q', '7ko2ht', '7ko4wu', '7ksh4x', '7kwal7', '7km2nf', '7km5a4', '7kmck6', '7kmgj2', '7kmjiv', '7kmu8v', '7kmudx', '7kn9hi', '7knc90', '7knj08', '7knvyh', '7kpadd', '7ks9ip', '7km37c', '7km70p', '7km8g6', '7km8kq', '7km9xt', '7kmoe3', '7kman1', '7kmct0', '7kmkzd', '7kmmu8', '7kmmz6', '7kmovi', '7kmp8w', '7kms8a', '7kmypy', '7kn1a0', '7kn1w1', '7kn4wg', '7kn69a', '7kn8wk', '7kp9r3', '7krre2', '7ksg1c', '7ksg4m', '7kstv7', '7kthku', '7kulsl', '7kuqsa', '7kurmu', '7ksmz3', '7kv9fs', '7l0ntn']	[1, 626, 1, 0, 1, 1, 4574, 1, 1, 1, 1, 1, 1, 1, 4, 77, 14, 1, 8, 239, 440, 1, 1, 1, 1, 3, 1, 4, 1, 1, 34, 5, 0, 1, 1, 1, 200, 1, 1, 1, 1, 7, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1, 103, 1, 1, 1, 1, 1]	[0, 17, 0, 0, 0, 0, 1045, 0, 0, 0, 0, 0, 0, 0, 2, 10, 32, 0, 2, 12, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 9, 0, 0, 0, 0, 23, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 1, 0, 11, 0, 0, 0, 0, 0]	{'2017-12'}
+Caitlin Johnstone	facebook	/g/11g20h7s_s	['7dnaxo', '7ef4pg']	[50, 1]	[4, 0]	{'2017-11'}
+Cambridge Analytica	facebook	/g/11clljsm74	['850mbz', '850sjv', '850sws', '85118w', '851cwl', '851xbg', '857vf8', '85fjw8', '85oh1e', '85xwk0', '867ana', '86ghvp', '86pghx', '8520c0', '85276s', '852e5m', '8521hn', '858bzt', '85fowf', '85pjjx', '85ydcq', '868g9y', '86h433', '86px0l', '8529cj', '852fkp', '87gws9', '852d6s', '852so3', '852d8s', '852k96', '853ggs', '853q5s', '85427x', '8545nk', '854ksn', '854kvc', '854x8b', '8557o2', '856t8i', '8566gs', '856h4y', '857rn8', '858at0', '858roi', '85aqig', '85dilb', '85dizv', '85dj4r', '85e3pr', '85e3vx', '85e401', '85gjtg', '85har3', '85hc8p', '85he9h', '85hhhj', '85hudy', '85i5if', '85i970', '85idhr', '85j533', '85jfso', '85jjoj', '85tczr']	[205, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 16, 1, 1, 1, 1, 11, 86, 1, 1, 1, 51, 1, 1, 1, 1, 1, 2, 7, 1, 1, 1, 9, 2, 3, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 11]	[10, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 0, 3, 5, 0, 0, 0, 6, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 3]	{'2018-03'}
+Cambridge Analytica	twitter	/g/11clljsm74	['850obc']	[1]	[1]	{'2018-04'}
+Candace Owens	facebook	/g/11f_xjg0xz	['bpuadn', 'bpt0zw', 'bpwdq2', 'bpwvi8', 'bpuuw0', 'bpxf3o', 'bpxn1g', 'bpxpjn']	[2, 3688, 3, 14, 3, 45, 1, 1]	[3, 80, 0, 5, 0, 0, 0, 0]	{'2019-05'}
+Candace Owens	twitter	/g/11f_xjg0xz	['94s9c9', '94uou2', '94vlnj', '953hre', '95sqqw']	[549, 110, 153, 2, 1]	[54, 3, 4, 2, 0]	{'2020-05'}
+Charles C. Johnson	twitter	/g/11bw1wgv6n	['37cq6b', '37fd50']	[76, 3]	[66, 2]	{'2015-05'}
+Clementine Ford	facebook	/m/04jpg7k	['8pa7b0', '8pa8gl']	[1, 0]	[0, 8]	{'2016-03'}
+Clint Eastwood	twitter	/m/0bwh6	['5c6efo', '5cbr36']	[14, 26]	[13, 5]	{'2016-11'}
+Collective Evolution	reddit	/g/11hfh6dltr	['5vpx1i', '5vpzhn']	[2, 4]	[1, 5]	{'2017-02'}
+Courtney Stodden	facebook	/m/0h8f_b_	['lbuf3']	[1]	[1]	{'2011-10'}
+Crimson Hexagon	facebook	/m/012brf4r	['90kjbj', '90kqwt', '918fdy', '918gvm']	[1, 1, 0, 0]	[0, 0, 0, 0]	{'2018-07'}
+Cubeyou Inc	facebook	/g/11g7z001nh	['8axfbv', '8axj6r', '8axn0w', '8axu77', '8axzhk', '8ayjra', '8aypz9', '8ayvl5', '8ay25w']	[1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 0, 0, 0, 2, 0, 0, 0, 0]	{'2018-04'}
+Cumia	twitter	/g/122jxcjn	['af0g08']	[44]	[6]	{'2017-06'}
+DCLeaks	twitter	/g/11c539z9mj	['8ywm5d']	[1]	[1]	{'2018-07'}
+Dana Loesch	twitter	/m/0drwqtn	['t05em']	[0]	[0]	{'2012-04', '2020-10'}
+Rihanna	instagram	/m/06mt91	['4rxm8c']	[1]	[0]	{'2014-05'}
+David Horowitz Freedom Center	twitter	/m/0fv1q6	['bm0jef']	[1]	[1]	{'2019-05'}
+Deepak Mehta	quora	/g/11clsymzmk	['bzi66a', 'bznlpn', 'bznp29']	[67, 1, 56]	[29, 1, 12]	{'2019-06'}
+Desmond Tutu	twitter	/m/02d5w	['1k66co']	[1]	[0]	{'2013-08'}
+Elon Musk	twitter	/m/03nzf1	['9qowsw', '9qowvq', '9qp2zf']	[1, 1, 1]	[5, 1, 0]	{'2018-10'}
+Engadget	reddit	/m/057dvs	['1plntc']	[29]	[10]	{'2013-10'}
+The Epoch Times	facebook	/m/06c5nr	['cum8s1', 'cv18pl', 'cvgfwj', 'cvwgqn', 'cwcxb6', 'cwt74i', 'cx99v9', 'cxp493', 'cummt9', 'cv1bn5', 'cvh957', 'cvx2hb', 'cweo2z', 'cwu5by', 'cxah8b', 'cxpnlz']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	{'2019-08'}
+ExtraTorrent	facebook	/g/11c2j89nk0	['4x1hr1']	[14]	[3]	{'2016-08'}
+Faith Goldy	facebook	/g/11dybhbbhr	['bbduf8']	[16]	[34]	{'2019-04'}
+Louis Farrakhan	facebook	/m/01449w	['blsj8p', 'blt6xj', 'bjyo6v', 'bjz8op', 'bk06pm', 'bk3fy1']	[169, 1, 1, 1, 7, 5]	[222, 0, 0, 0, 7, 0]	{'2019-05'}
+Forsen	vk	/g/11b7x25_x_	['79novu', '79npeg']	[88, 1]	[24, 1]	{'2017-10'}
+Billy Graham	facebook	/m/03337q	['aaycqv', 'aayd00', 'aayijo', 'aayiqp', 'aau3ii', 'aau880', 'aayzx8', 'aaz0b6', 'ae5r4w']	[1, 1, 18, 1, 1, 1, 1, 2, 1]	[0, 0, 58, 0, 0, 0, 0, 0, 0]	{'2018-12'}
+Gamergate controversy	4chan	/m/011x3llj	['b1ca62']	[269]	[167]	{'2019-03'}
+Garrison	instagram	/m/01xsky	['bdy0h2', 'beb9fx']	[98, 1]	[16, 1]	{'2019-04'}
+Garry Newman	twitter	/m/02hps_y	['4x065o']	[32]	[53]	{'2016-08'}
+Gavin McInnes	facebook	/m/0c7hyn	['9tb2fp', '9tb2kq', '9tb9ty', '9tbdvf', '9tbiky', '9wuogw']	[2057, 82, 1, 1, 1, 2]	[207, 58, 1, 0, 0, 0]	{'2018-11'}
+Gavin McInnes	twitter	/m/0c7hyn	['96cu80', '96c63r', '96ca5d', '96cb0r', '96dtln', '96ebji', '96n0r6', '9fbsyg']	[3, 6, 1, 1, 2, 14, 196, 14]	[3, 3, 0, 0, 31, 22, 198, 0]	{'2018-08'}
+Gawker	reddit	/m/05d3f7	['11ly7c']	[0]	[0]	{'2012-10'}
+Geert Wilders	twitter	/m/04g0k_	['9un3ir']	[1]	[0]	{'2019-05'}
+Geert Wilders	twitter	/m/04g0k_	['9upsgx']	[15]	[1]	{'2018-11'}
+Beatrix von Storch	twitter	/m/0127x90h	['7nyvwa']	[1]	[0]	{'2018-02'}
+Godfrey Elfwick	twitter	/g/11c3jbm13w	['6oiwk8', '902t9c']	[3, 643]	[1, 20]	{'2018-07'}
+Graham Phillips	twitter	/m/02x2d9g	['9z69uy', '9z6a33', '9z6eb9']	[1, 1, 1]	[0, 0, 0]	{'2018-11'}
+Ben Garrison	instagram	/g/11dxdyy7_b	['bdz46f', 'be4evr']	[2029, 1]	[79, 0]	{'2019-04'}
+Guo Wengui	facebook	/m/0131k21j	['73yovp']	[4]	[3]	{'2017-10'}
+Hafiz Saeed	twitter	/m/0dyrbr	['2on3v5']	[1]	[0]	{'2016-07', '2014-12'}
+Hamas	twitter	/m/03m6j	['1v60jt', '1v60my', '1v67p0']	[2, 1, 1]	[1, 0, 0]	{'2019-11'}
+Hamza Abbasi	facebook	/m/0v314zd	['4tnf1l', '4togqm', '4tpkka', '4tpl6u', '4tpocn']	[20, 1, 13, 0, 1]	[2, 0, 16, 4, 0]	{'2016-07'}
+Hezbollah	facebook	/m/03m7d	['yjo0h', 'yjnzv']	[1, 4]	[0, 1]	{'2018-06'}
+Luke O'Brien	twitter	/m/02w6405	['8p2rze']	[118]	[11]	{'2018-06'}
+IGN	reddit	/m/0dqmh5	['zo9zj', 'zo7z7', 'zne8e']	[1, 12, 42]	[0, 9, 1]	{'2012-09'}
+Ian Miles Cheong	reddit	/g/11qqs71bx0	['2mkn3k']	[361]	[19]	{'2012-04'}
+Mohammad Tawhidi	twitter	/g/11g8ghj8n4	['bg5q3p', 'bga5el']	[1170, 1]	[29, 0]	{'2020-05'}
+Instapundit	twitter	/m/02d7t4	['53z4re', '53z5ov', '541d61', '53zctr']	[26, 9, 1, 6]	[2, 2, 0, 0]	{'2016-09'}
+Ali Khamenei	instagram	/m/0224jr	['bdy8xk', 'bdyjjo']	[1, 1]	[0, 0]	{'2019-04'}
+Jacob Wohl	twitter	/g/11g6p4z49m	['av54v2', 'av67t3', 'av685a', 'av6a24']	[7, 1, 1, 1]	[6, 0, 0, 0]	{'2019-02'}
+James Allsup	twitter	/g/11f06n0zht	['7m4ywk', '7mqqdb', '7mrqkf']	[1, 65, 13]	[0, 47, 0]	{'2017-12'}
+James Desborough	twitter	/m/0h3w7wr	['97jmg4']	[411]	[124]	{'2018-08'}
+James McClean	twitter	/m/0b74h0m	['19bexz']	[6]	[26]	{'2013-02'}
+James Woods	twitter	/m/016ks_	['9hsnn0', '9i08eh', '9i0cdw', '9ics2u', '9idmde', 'bfg0wp', 'bkkm8y', 'bkogd1', 'bkzi63', '9hvaiu', '9i90sh', '9icgfr', '9icgmf', '9ici8u', '9icirt', '9ickoc', '9icly8', '9id434', '9iiu0y', '9iiyst', '9iklk9', 'bkkxro', 'bkl29w', 'bkl2ew']	[109, 89, 2, 1, 20, 6, 0, 2, 1, 1, 853, 1, 24, 1, 0, 1, 1, 1, 1, 1, 1, 1, 10, 32]	[20, 10, 0, 0, 2, 0, 0, 1, 0, 0, 99, 0, 15, 0, 2, 0, 0, 0, 0, 0, 0, 0, 7, 7]	{'2020-03', '2018-09'}
+Jamie Glazov	facebook	/m/084cx6	['9fa686', '9fcsdi']	[2, 10]	[0, 0]	{'2018-09'}
+Jamie Loftus	twitter	/g/11h557vrkg	['9smbk0']	[26]	[23]	{'2018-02'}
+Janet Bloomfield	twitter	/m/0bd1lq	['2qvfsn']	[35]	[2]	{'2014-08'}
+Jayda Fransen	twitter	/g/11c5_b82l1	['7kod8p']	[5]	[0]	{'2017-12'}
+Jesse Kelly	twitter	/m/0n9n1rp	['a0ln5v', 'a0vswl']	[0, 8]	[6, 2]	{'2018-11'}
+Betzalel Smotrich	twitter	/m/0130rl5j	['8efm8z']	[1]	[0]	{'2018-04'}
+Joe Biggs	instagram	/g/11mgcq6467	['ckila2']	[1]	[1]	{'2019-08'}
+Jonathan Daniel Brown	twitter	/m/0g521w6	['56ugfv']	[59]	[10]	{'2016-10'}
+Kamaal R. Khan	twitter	/m/080btk5	['77kbmz', '77kbo0']	[12, 10]	[3, 1]	{'2017-10'}
+Maria Kang	facebook	/m/01012_2k	['1rk3rv']	[24]	[10]	{'2013-11'}
+Kanye West	twitter	/m/02l840	['9ngqyf']	[2]	[1]	{'2020-09'}
+Kate Osamor	wikipedia	/g/11bc4srfy7	['a2eg47', 'a2eghf', 'a2fxuz', 'a2pl1m', 'a36tsj']	[185, 95, 17, 0, 1]	[89, 20, 80, 1, 0]	{'2018-12'}
+Khadim Hussain Rizvi	twitter	/g/11g01tj2cb	['9u4tlz']	[1]	[0]	{'2018-11'}
+Kukuruyo	twitter	/g/11cn0tmg3q	['4hwncp', '4hwo34']	[0, 4]	[1, 5]	{'2016-08'}
+Laura Loomer	instagram	/g/11d_23cdgz	['bk49c5']	[1]	[1]	{'2019-05'}
+Laura Loomer	twitter	/g/11d_23cdgz	['9z99ef', '9z9l7r', '7a89oh', '9zevwr', '9zfsju', '9zj67h', '9zkns5', '9zopyi', '9znasd', '9zqbnk', 'a1mdtt', 'a32mc5', 'a74cy4', 'aplttx', 'apmqeb', 'apmqx2', 'apvo5j', 'aq0drx', '9zbj23', '9zbjbs', '9zbjmx', 'a1o1rt', 'a1qnmi', 'a1ts13', 'a6bm7o', 'cfqwfv']	[1, 30, 1, 59, 1, 4, 1, 1, 1, 9, 1030, 3, 23, 1, 1, 96, 1, 1, 624, 388, 313, 10, 1, 94, 750, 335]	[0, 10, 2, 58, 0, 5, 1, 0, 1, 6, 20, 2, 0, 0, 0, 9, 0, 0, 9, 27, 15, 2, 0, 22, 38, 7]	{'2018-11'}
+Lindsay Shepherd	twitter	/g/11g0mg_tws	['cdnecj', 'cdr6gj', 'cdrgui', 'cdwsaz', 'cdx5yb', 'ce32pu', 'ce7wyj', 'cdy33s', 'cefdpt', 'cek176', 'cfk37m', 'cfn1oy', 'ch5e5y']	[67, 158, 127, 1, 50, 26, 0, 106, 125, 94, 1, 185, 1]	[71, 110, 260, 1, 71, 25, 20, 7, 82, 8, 0, 4, 0]	{'2019-07'}
+Liz Crokin	twitter	/g/11fhxw3cv0	['a099r9', 'a2qq2n', 'a2qqd5']	[103, 1, 2]	[34, 0, 0]	{'2018-11'}
+Lolicon	gab	/m/026548	['9rc6xs']	[2]	[9]	{'2018-10'}
+Louis Farrakhan	facebook	/m/01449w	['bjyzrl', 'bjzdhc', 'bjznhf', 'bk0j7x', 'bjy3eq', 'bjy3gk', 'bjy3z8', 'bjy4ih', 'bjy4pv', 'bjy5c7', 'bjy5qq', 'bjy74n', 'bjy7zc', 'bjy8ev', 'bjy93m', 'bjyax4', 'bjyf7q', 'bjypnp', 'bjyv6l', 'bjyw2n', 'bjyz6r', 'bjz3tu', 'bjz67o', 'bjz7hb', 'bjzb6f', 'bjzi1i', 'bjzi5r', 'bjzi68', 'bjzvyv', 'bjzwds', 'bk21xf', 'bk2iup', 'bk3i7u', 'bk3pxp', 'bk5kis', 'bjy4x6', 'bjy6tk', 'bjyac5', 'bjyiu8', 'bjyjax', 'bjz04c', 'bjykun', 'bjym5m', 'bjynjq', 'bjyy50', 'bjzj44', 'bk0sjq', 'bjyobt', 'bjzapu', 'bk016h', 'bk036f', 'bk0q82', 'bk0qtt', 'bk0xr1', 'bk1l2u', 'bk1p99', 'bk3v1z', 'bjyonr', 'bjyoqr', 'bjzoxe', 'bjyp2k', 'bjypdw', 'bjysdv', 'bjyurn', 'bjywc7', 'bjyxtg', 'bjz2ni', 'bjz886', 'bjz94g', 'bjzb25', 'bjzd4t', 'bjzptj', 'bjzwm4', 'bk07yb', 'bk0aao', 'bk2wvm', 'bk51wz', 'bk5cuw', 'bk5kav', 'bk5wmu', 'bk7ivr', 'bmx629', 'cw3nsu']	[1, 1, 1, 1, 1, 257, 6090, 165, 21, 6, 40, 1, 1, 0, 34, 10, 1, 2, 33, 1, 1, 34, 2, 2, 1, 326, 1, 130, 1, 6, 30, 18, 19, 1, 9, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 24, 2, 1, 1, 120, 1, 2, 1, 1, 21, 34, 0, 1, 1, 1, 8, 1, 18, 1, 1, 117, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 0, 0, 0, 0, 69, 1827, 52, 11, 3, 2, 0, 0, 2, 19, 2, 0, 0, 18, 0, 0, 8, 0, 0, 0, 262, 0, 18, 0, 10, 29, 1, 36, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0, 19, 0, 2, 0, 0, 3, 4, 97, 0, 0, 0, 2, 0, 27, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	{'2019-05'}
+Louis Farrakhan	instagram	/m/01449w	['bk0nga', 'bk0rdd', 'bk10gs', 'bk312g']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2019-05'}
+Mark Kern	twitter	/m/03b_2tk	['4nx6sk']	[3]	[2]	{'2016-06'}
+Marsha Blackburn	twitter	/m/01fnkt	['75c600', '75c6l0', '75cb7l', '75g0xd', '75lrad', '75lrk8', '75mhdo', '75mv8s', '75muso']	[1, 1, 40, 1, 2, 1, 14, 17, 4]	[1, 0, 2, 2, 0, 0, 0, 2, 0]	{'2017-10'}
+Mitch McConnell	twitter	/m/01z6ls	['cnedy2', 'cnegsa', 'cnekzd', 'cnf4t2', 'cnf7fi', 'cnuz4x']	[1, 1, 278, 1, 4, 1]	[0, 0, 24, 0, 5, 0]	{'2019-08'}
+Meghan Murphy	twitter	/g/11ght95dgq	['ay627m', 'bfunw5']	[61, 6]	[47, 14]	{'2018-11'}
+Milo Yiannopoulos	facebook	/m/0crgcgb	['bk0shd']	[1]	[0]	{'2019-05'}
+Milo Yiannopoulos	twitter	/m/0crgcgb	['8stiff', '8sv5ol', '4o7t33', '4tu9j6', '5fgmhz', '44epmu', '44epnv', '44epom', '44eppq', '44epr9', '44epsz', '44epun', '48k8q7', '4gq790', '4jueoy', '4jzr7k', '4kxpnc', '4l0omd', '4o2f7i', '4alqqi', '4alvkt', '4b61h4', '4b8b76', '4bi8uz', '4c0n2c', '4chkam', '4d1jbu', '4d2ow1', '4dhk8v', '4dmueg', '4dmv5n', '4e4cul', '4exl2v', '4f29xx', '4fii32', '4fk0qs', '4fk0x6', '4ftu7r', '4fzd5p', '4fzg6v', '4fzwco', '4g2h58', '4gom64', '4gsj1y', '4h3k3g', '4h4l3k', '4h99wy', '4hkr1j', '4honrl', '4hrhbx', '4hrr0e', '4hv42i', '4jbqoh', '4jc9mv', '4je6c6', '4jh9n6', '4jltxa', '4jmbmb', '4jt0jz', '4jt0yh', '4jt4cs', '4jt9hr', '4jtd6q', '4jt4rp', '4jtnos', '4jtnre', '4jt802', '4jtae6', '4jtth7', '4jv7if', '4k433r', '4k4bje', '4k8vqk', '4k9i3q', '4kcj34', '4kxn8o', '4kxnxy', '4l0es4', '4kzqy3', '4kzr91', '4l25q8', '4l10ov', '4l12bg', '4l198u', '4l3qp4', '4l3qwq', '4l3sro', '4l441v', '4l558i', '4l5uol', '4l5urw', '4l83xe', '4l83zj', '4l95y0', '4l95zo', '4l9627', '4lu57b', '4lvn6d', '4lvneb', '4lypz2', '4m07dv', '4n6eld', '4nlszx', '4nrfey', '4nrgax', '4nrpyi', '4nrgki', '4nrhey', '4nrid7', '4nrif6', '4nril2', '4nrjek', '4nrjjd', '4nrjvo', '4nrlh2', '4nrlh8', '4nrllm', '4nrlzv', '4nrmpj', '4nv0ek', '4nrn7p', '4nrns2', '4nrrlu', '4nrpp8', '4nrqbf', '4nrrsn', '4nsck7', '4nrso8', '4nruju', '4nry4e', '4oqb95', '4nrzxg', '4nsgqy', '4ns1tn', '4ns226', '4ns27p', '4ns33g', '4ns33m', '4ns33t', '4ns340', '4ns37e', '4ns38z', '4ns4dl', '4ns4r9', '4ns5s5', '4ns5t8', '4ns8lq', '4ns8yz', '4nseib', '4nsg22', '4nsgf6', '4nt35f', '4nsgru', '4nshjh', '4nshs6', '4nsila', '4nsj4f', '4nsjbg', '4nsl6d', '4nslrm', '4nsmg5', '4nsmvc', '4nsn4e', '4nsog1', '4nssn1', '4nstpw', '4ntj0d', '4nsyo6', '4nt01e', '4nt635', '4nt9x9', '4ntdof', '4nthlf', '4ntws3', '4nulwn', '4nuvi0', '4nux2w', '4nuxb7', '4nuz83', '4nuzry', '4nv6rx', '4nw4ey', '4nwbzg', '4nx1dk', '4nwfnm', '4nx876', '4nxaow', '4nxe6a', '4nxx9y', '4nxy73', '4nxygl', '4nxys0', '4nxza6', '4nxzii', '4ny0ql', '4ny7fm', '4nygdo', '4nztc3', '4o1jv9', '4o2dbn', '4o2f7j', '4o2xim', '4o357a', '4o35mt', '4o4014', '4o4235', '4o42ea', '4o43gj', '4o49ea', '4o4c6k', '4o4cso', '4o4rz7', '4o5p7f', '4o5pui', '4o5qxa', '4o75d5', '4o8br3', '4o75kr', '4o76xr', '4o76zc', '4o771m', '4o7739', '4o774w', '4o776i', '4o7a4e', '4o7abv', '4o7gqu', '4o7gwy', '4o7hkm', '4o7hxa', '4o7j01', '4o7mko', '4o7zs5', '4o7zvb', '4o81f0', '4o81hw', '4o81pf', '4o8585', '4o88aj', '4o8df1', '4o8f22', '4o8iqh', '4o8mk9', '4o8qdc', '4o8tow', '4o8u21', '4o8v5h', '4o9jz6', '4o9lti', '4o9vs9', '4o9y19', '4oa99z', '4oa9lg', '4oa9wt', '4oaa3k', '4oab04', '4oabsi', '4ob6xw', '4obsse', '4od450', '4od46g', '4od51u', '4odv3y', '4odhie', '4odhox', '4odhrp', '4odi20', '4odicn', '4odjon', '4odk2m', '4odlll', '4odov5', '4odqgk', '4odqju', '4odqxj', '4ods9f', '4odwap', '4odxal', '4oee2w', '4of2js', '4of2ng', '4of2ro', '4of31r', '4of57m', '4of7lq', '4of853', '4ofczu', '4ofleq', '4oflfo', '4oflhu', '4ofm5g', '4oftcv', '4oftft', '4ofufu', '4ofuug', '4ofujo', '4og0fq', '4og0ib', '4og0js', '4og74s', '4ogll5', '4ohgo7', '4ohvum', '4oihi8', '4oihm3', '4oil8o', '4oksqo', '4ooiri', '4ooiwy', '4oksxv', '4okt5f', '4olp35', '4olp4t', '4omj0o', '4omjba', '4opfy9', '4ophkn', '4opika', '4opj5n', '4opkqm', '4opkrk', '4opkt0', '4opkuh', '4oq28v', '4oq2by', '4oq2eg', '4oq2gf', '4oq2kf', '4oq2n2', '4oq364', '4oq37d', '4oq6oa', '4oq8fl', '4oq9u0', '4oq9ve', '4oqak3', '4oqbk9', '4oqbq3', '4oqcvc', '4oqeg1', '4oqfck', '4oqjqf', '4oql7u', '4oqw51', '4oqw6b', '4oqyg4', '4or0zd', '4or7a8', '4or7t3', '4or8wq', '4or9k2', '4orbn5', '4ou7ks', '4ounov', '4ounto', '4ounyu', '4ouusf', '4ovios', '4ow0zj', '4ow36t', '4ow4yh', '4ow6zb', '4oym43', '4ozcuv', '4ozhhf', '4ozhl5', '4ozndd', '4ozpmv', '4ozynw', '4ozyrf', '4ozytb', '4ozyx8', '4ozzfq', '4p04ew', '4p0nua', '4p0sjn', '4p0tnv', '4p0yzh', '4p146l', '4p1mpd', '4p1nqr', '4p3e6e', '4p3epa', '4p5ne0', '4p5q01', '4p5rbm', '4p6812', '4p69du', '4p69jd', '4p6cdj', '4p6dnx', '4p6ftx', '4p6g0c', '4p6gui', '4p6h85', '4p6im3', '4p6spr', '4p6xhb', '4p6yj0', '4p6yo5', '4p74of', '4p7668', '4p77e0', '4p78it', '4p798r', '4p7fel', '4p7fs4', '4p7g3w', '4p7xzx', '4p7y61', '4p7y8m', '4p7ykz', '4p7ypu', '4p7z6e', '4p82a3', '4p84mj', '4p877h', '4pbjpb', '4pbp7p', '4pbqy2', '4pbsfu', '4pckzm', '4pfrth', '4pcq7f', '4pd43h', '4pdh42', '4pitnb', '4pj5ku', '4pkl2c', '4pkl3m', '4pmo95', '4pnvu1', '4pnvxq', '4pnxwl', '4po3jg', '4po5rm', '4pp7mn', '4pp7qb', '4pp8so', '4pphtm', '4ppib5', '4ppiur', '4pq2zc', '4pq9nu', '4pt4ew', '4pt57s', '4pt61v', '4pt829', '4pte4m', '4ptepr', '4ptgv1', '4ptr9j', '4pug9p', '4pugjg', '4puwa3', '4pycks', '4pyuzu', '4pyvxq', '4pzdcf', '4pzimb', '4q0zmy', '4q1in3', '4qtbe8', '4qtbh3', '4qtbkm', '4qtbnf', '4qtbsw', '4qtciq', '4qtcw8', '4qti98', '4qtjh6', '4qty2o', '4qu38e', '4quwq7', '4quwv5', '4quxtj', '4quxwr', '4quyhe', '4quz21', '4r398f', '4r45ov', '4r481u', '4r483f', '4r4859', '4r4890', '4r48qe', '4r48rq', '4r4cwd', '4r82t1', '4r83ac', '4r8691', '4r891e', '4r8g5v', '4r90sw', '4r90x1', '4r927q', '4r932y', '4r93av', '4r9a0e', '4r9ghy', '4r9h29', '4ra229', '4rabkn', '4rfc3u', '4rfc4s', '4rfceo', '4rfckp', '4rfcn9', '4rflyr', '4rfxve', '4rg5pf', '4rg6fy', '4rg7dl', '4rkmh5', '4rkp2b', '4rkp3q', '4rlu2v', '4rpgoq', '4rpgu7', '4rpgxl', '4rpkbx', '4rq060', '4rq0ky', '4rrux0', '4rrv9e', '4rt7tv', '4rvvyn', '4rwej9', '4rxk5y', '4s1qhb', '4s4ik6', '4s8001', '4sbd1n', '4sbd3z', '4sbd5n', '4sbdfv', '4sbdrh', '4sbvj2', '4sbw13', '4sbymt', '4sbyt1', '4sc0f1', '4sc311', '4sca6u', '4scbhn', '4scbr8', '4sd496', '4sd4ey', '4sd9g0', '4snjzn', '4sowpm', '4sowrm', '4sp02a', '4sp4w2', '4sp50n', '4sp56i', '4sp5aj', '4sp5d8', '4sp5gt', '4sp5l1', '4sp5w9', '4sp5zb', '4sp625', '4sp665', '4sp6so', '4sp8qw', '4spcbg', '4spmbx', '4spx5h', '4su2pa', '4su6l8', '4sudi8', '4svzr4', '4sw0tu', '4sw4n9', '4sw7zv', '4swbe6', '4swdty', '4swgmo', '4swgq9', '4swh75', '4swh9d', '4swk5y', '4swxaa', '4swkc0', '4swlgw', '4swlim', '4swmba', '4sxk37', '4sxk60', '4t1fso', '4t1gi3', '4t1gjv', '4t1gp4', '4t1gwk', '4t1jtm', '4t1jyw', '4t1kds', '4t1kjk', '4t2cic', '4t4mtz', '4t5oqt', '4t5oxh', '4t5pd6', '4t7ayf', '4taey5', '4taf61', '4tdku7', '4tep2d', '4tep7g', '4tf6xg', '4tf6yo', '4tfa15', '4tfqoi', '4tfqq2', '4tgbm4', '4tgibo', '4tgz50', '4thgqr', '4thku2', '4thxv7', '4thy8w', '4ti39c', '4ticy4', '4tmgtg', '4tmxrq', '4tn39o', '4tn872', '4to6le']	[4906, 1, 29, 0, 60, 452, 52, 35, 22, 15, 50, 3, 6, 25, 1, 105, 37, 2, 4, 53, 48, 107, 158, 893, 83, 67, 2066, 17, 164, 246, 575, 58, 0, 1576, 350, 1, 1, 1088, 13, 25, 1182, 49, 53, 60, 1578, 1805, 26, 24, 1, 10, 36, 18, 15, 744, 2240, 1010, 1133, 910, 300, 13, 62, 5, 2, 1138, 39, 604, 5, 2, 22, 45, 485, 304, 583, 120, 202, 37, 3437, 2064, 160, 636, 46, 13, 10, 83, 62, 705, 31, 28, 1, 846, 13, 7, 44, 35, 280, 33, 194, 859, 192, 14, 19, 10, 34, 171, 2544, 1, 179, 8, 20, 134, 5, 1, 338, 27, 12, 74, 65, 16, 845, 31, 19, 21, 22, 21, 15, 2997, 1, 42, 296, 10, 2, 2644, 1, 13, 18, 15, 1, 2, 1, 2, 1, 1, 5, 22, 1, 1, 154, 2, 34, 29, 2826, 1, 10, 1, 11, 1, 10, 158, 317, 43, 15, 101, 2, 166, 499, 2610, 1, 173, 16, 37, 18, 10, 2610, 0, 0, 13, 159, 52, 59, 29, 249, 11, 2756, 1, 12, 255, 17, 2636, 20, 7, 11, 14, 19, 75, 23, 16, 37, 125, 2222, 13, 533, 164, 53, 1670, 223, 2, 101, 43, 21, 302, 56, 18, 35, 219, 56, 1726, 39, 1257, 193, 1219, 114, 56, 55, 111, 75, 380, 291, 22, 16, 10, 2, 40, 27, 63, 2709, 107, 3849, 97, 5, 22, 31, 30, 56, 149, 72, 103, 71, 221, 79, 36, 101, 127, 91, 44, 93, 75, 140, 300, 717, 65, 91, 2479, 0, 56, 1, 91, 57, 60, 82, 88, 317, 86, 40, 1224, 79, 58, 47, 50, 1, 163, 525, 652, 447, 163, 111, 300, 278, 48, 44, 65, 66, 49, 50, 71, 33, 75, 106, 77, 69, 23, 49, 94, 141, 192, 874, 32, 2477, 0, 1, 220, 64, 7, 11, 77, 0, 26, 351, 6, 5, 7, 218, 71, 43, 6, 3, 6, 3, 7, 7, 6, 4, 1, 8, 0, 1, 17, 6, 14, 8, 37, 5, 1, 21, 10, 5, 13, 4, 39, 6, 3, 8, 14, 1, 3, 10, 4, 21, 29, 354, 13, 13, 3, 41, 933, 3, 7, 4, 76, 121, 67, 67, 1702, 3307, 42, 9, 21, 27, 353, 8, 16, 52, 15, 2097, 10, 25, 3, 251, 139, 16, 5, 8, 18, 18, 3, 9, 12, 3, 5, 3, 104, 14, 7, 4, 3, 13, 20, 10, 7, 18, 11, 20, 7, 11, 22, 15, 9, 2, 4, 292, 7, 9, 467, 45, 15, 15, 15, 55, 156, 1867, 556, 165, 9, 1026, 5, 12, 10, 13, 4, 7, 24, 3, 9, 7, 4, 86, 365, 1459, 33, 7, 17, 5, 2774, 3, 10, 620, 28, 18, 5, 24, 738, 1041, 120, 6, 9, 5, 6, 3, 9, 4, 12, 2, 12, 20, 33, 9, 10, 285, 748, 27, 107, 45, 58, 207, 36, 1386, 20, 957, 497, 18, 9, 1803, 1, 67, 3, 6, 2, 144, 11, 278, 11, 7, 5, 9, 5, 5, 10, 14, 19, 3, 4, 3, 6, 7, 400, 12, 87, 3, 2, 12, 10, 3, 11, 7, 8, 10, 1, 7, 23, 7, 976, 13, 8, 6, 3, 7, 5, 5, 535, 1, 1357, 27, 13, 25, 6, 2, 3, 1, 4, 9, 18, 4, 7, 8, 12, 12, 6, 6, 27, 7, 50, 8, 9, 9, 86, 9, 11, 16, 31, 6, 12, 8, 4, 65, 5, 1489, 9, 614, 6, 3, 16, 23, 9, 4, 2, 4, 9, 6, 4, 1, 11, 149, 88, 21, 26, 226, 74, 41, 10, 40, 11, 7, 1, 1, 9, 23, 7, 74, 20, 19, 889, 5, 9, 7, 8, 8, 5, 11, 6, 28, 34, 9, 21, 13, 19, 1, 239, 7, 9, 5]	[91, 2, 1, 1, 3, 123, 2, 0, 2, 1, 4, 1, 1, 3, 0, 4, 0, 0, 3, 0, 2, 7, 1, 27, 3, 4, 302, 1, 3, 4, 11, 4, 0, 40, 22, 0, 0, 15, 0, 0, 40, 1, 4, 2, 10, 73, 1, 2, 0, 0, 4, 0, 0, 3, 57, 12, 5, 16, 10, 0, 43, 1, 0, 175, 4, 18, 2, 2, 1, 1, 13, 3, 33, 2, 7, 0, 251, 39, 4, 11, 3, 0, 1, 0, 2, 87, 0, 2, 0, 34, 2, 0, 0, 1, 6, 2, 7, 21, 5, 0, 0, 0, 2, 3, 602, 0, 0, 0, 2, 0, 28, 0, 3, 0, 1, 3, 2, 1, 10, 0, 0, 1, 0, 0, 0, 307, 0, 0, 5, 0, 0, 340, 0, 0, 1, 9, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 0, 0, 1, 186, 0, 1, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 129, 0, 1, 0, 0, 0, 0, 357, 2, 0, 0, 10, 2, 0, 0, 4, 0, 240, 0, 1, 0, 0, 170, 4, 0, 2, 0, 0, 0, 0, 0, 0, 5, 138, 1, 190, 11, 0, 31, 6, 1, 1, 0, 2, 8, 3, 1, 2, 6, 1, 52, 0, 14, 3, 3, 0, 0, 1, 5, 0, 7, 8, 0, 0, 1, 0, 2, 3, 1, 14, 2, 57, 0, 0, 0, 0, 3, 1, 2, 0, 0, 0, 3, 0, 1, 0, 2, 1, 0, 0, 0, 0, 7, 11, 0, 0, 363, 4, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 5, 1, 0, 0, 0, 0, 1, 4, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 4, 1, 3, 9, 2, 167, 2, 0, 9, 0, 1, 0, 1, 3, 0, 18, 0, 0, 0, 6, 2, 2, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 1, 2, 0, 0, 8, 0, 0, 0, 1, 1, 0, 0, 22, 69, 0, 0, 2, 0, 1, 0, 1, 1, 0, 31, 3, 0, 1, 1, 2, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 9, 1, 1, 0, 1, 2, 13, 51, 5, 1, 0, 9, 2, 0, 1, 2, 0, 1, 0, 0, 1, 0, 0, 1, 4, 28, 2, 0, 1, 3, 246, 0, 0, 14, 40, 1, 0, 1, 17, 44, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 5, 25, 3, 6, 2, 0, 0, 0, 19, 1, 6, 2, 0, 0, 109, 0, 1, 0, 1, 0, 3, 0, 7, 0, 0, 0, 1, 1, 1, 0, 0, 2, 0, 0, 0, 0, 1, 4, 0, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 2, 0, 7, 4, 0, 1, 0, 0, 0, 0, 6, 0, 38, 0, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 1, 0, 2, 0, 0, 0, 1, 7, 0, 35, 0, 10, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 4, 3, 3, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 18, 5, 0, 14, 2, 1, 4, 0, 1, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 8, 0, 3, 0, 0, 0]	{'2016-07'}
+Missoulian	reddit	/m/05c8r1	['10btt8']	[13]	[6]	{'2012-09'}
+Mitch McConnell	twitter	/m/01z6ls	['cnm0dv']	[1]	[2]	{'2019-08'}
+Nicholas J. Fuentes	discord	/g/11g0gdk0rr	['az3qvz']	[14]	[7]	{'2019-03'}
+Nick Monroe	twitter	/g/11lr1hnm8c	['bu16yx', 'bu1dgc', '8bau3b']	[108, 2, 72]	[17, 0, 9]	{'2019-06'}
+Nick Rekieta	twitter	/g/11hp0f_kx4	['bhiqs4']	[219]	[22]	{'2019-03'}
+onGamers	reddit	/m/0zdnm68	['2ilr43']	[0]	[4]	{'2014-04'}
+Owen Benjamin	twitter	/m/026svt5	['8aaf2w', '8ab4kg', '8acseu']	[1, 1, 1]	[0, 1, 0]	{'2018-04'}
+Owen Shroyer	facebook	/g/11h2mdtzbg	['azaxug', 'azb313']	[1, 2]	[0, 0]	{'2019-03'}
+Pamela Geller	facebook	/m/04g023x	['8ex3py', '8fg7nn', '8fgdbb', '8fhr2i', '4nsyr4']	[1, 20, 0, 24, 15]	[0, 0, 0, 1, 0]	{'2019-06'}
+Paul Joseph Watson	instagram	/g/11ddysw2r5	['bk1uqk']	[15]	[4]	{'2019-05'}
+Paul Nehlen	twitter	/g/11f3jy5hmw	['7sn2ap', '7wwguv', '7wweun', '7xsk0h']	[1, 1, 1, 1]	[1, 0, 0, 0]	{'2018-02'}
+Pauline Hanson	twitter	/m/0j5pc	['cttwhw', 'cu7rpf', 'cwib4s']	[249, 1, 1]	[359, 0, 0]	{'2019-08'}
+Pax Dickinson	twitter	/g/11l48qhscq	['6trhh5']	[155]	[3]	{'2016-11'}
+Peter Boykin	twitter	/g/11dztxjlmf	['bnx31f', 'bnx5bj', 'bnx5cd', 'bnx6go']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2019-05'}
+Pizzagate conspiracy theory	reddit	/g/11c5wkhcbx	['733h82']	[6]	[1]	{'2016-11'}
+Proud Boys	facebook	/g/11g6rk4qnn	['9uh0qh', '9sttp2', '9su7e3', '9suvez', '9svces', '9svm5j', '9t0nsi', '9sw3iw', '9swnfy', '9syirc', '9t0cht', '9t4ml2']	[2, 195, 1, 2, 68, 42, 2, 88, 1, 6, 56, 559]	[0, 12, 0, 0, 16, 1, 2, 14, 0, 2, 8, 215]	{'2018-11'}
+Proud Boys	instagram	/g/11g6rk4qnn	['9t4h7g', '9t4jy5', '9t4ky5', '9t4t0j']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2018-11'}
+Proud Boys	twitter	/g/11g6rk4qnn	['96ch2b', '96craw', '96d9qt', '96db1u', '96ddly', '96didv', '96eiql', '96i8al', '96lo4v', '96d9wt', '96db49', '96db51', '96dlsl', '96dlyf', '96dn4u', '96g1av', '96gdkl', '96dra7', '96g19l', '96g1bl', '96g1d7', '96g4cw', '96g4fp', '96ifrp', '96n753', '96naw4']	[1, 1, 864, 851, 18, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1965, 2, 1, 4, 1, 1, 2, 1, 1, 15, 1]	[0, 0, 737, 70, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 390, 0, 0, 1, 0, 0, 0, 0, 0, 12, 0]	{'2018-08'}
+QAnon	reddit	/g/11hc_gvb_r	['9fb2y5', '9fb4ur', '9fbagj', '9fbcix', '9fbdo2', '9fbg2a', '9fbjgt', '9fbv2p', '9fc0c6', '9fc82t', '9fe4x6', '9fe52f', '9ferei', '9ff1e4', '9fk135', '9fbiek', '9fbj2t', '9fbsx3', '9fbt8s', '9fbtnf', '9fe704', '9feg5e', '9feor9', '9ffj69', '9fc0ja', 'ap194i', '9fc0k6', '9fc5sh', '9feqvd', '9fer8m', '9fergm', '9ff3ac', '9fgx0x', '9fir3q', '9fceqq', '9fcmit', '9fdkhb', '9fdl3u', '9fdl86', '9fdtyq', '9fe9y3', '9fe42a', '9fe4s8', '9fe58x', '9fexp2', '9fezyk', '9fikwg', '9fikxd']	[1248, 1, 1, 11375, 1, 190, 4, 0, 1, 1, 1, 1, 1, 15, 16, 1, 1, 1, 1, 33, 109, 101, 1, 3, 0, 0, 0, 1057, 16, 2, 4, 7, 1, 1, 0, 1, 8, 12, 11, 1, 1, 1, 1, 190, 1, 1, 1, 1]	[576, 1, 0, 3250, 0, 40, 0, 4, 0, 0, 0, 0, 0, 16, 7, 0, 1, 0, 0, 25, 53, 5, 0, 4, 0, 53, 0, 177, 13, 0, 0, 3, 0, 0, 0, 0, 3, 3, 4, 0, 0, 0, 0, 16, 0, 1, 0, 0]	{'2018-09'}
+Quackity	discord	/g/11j5_9p7xs	['aid6y3']	[5]	[0]	{'2019-01'}
+Rape Day	steam	/g/11j99tpz4v	['ayidx7', 'b8gcz6']	[1, 49]	[0, 4]	{'2019-03'}
+Ray Blanchard	twitter	/m/0c7jzx	['bnv8i7']	[2]	[2]	{'2019-05'}
+Richard B. Spencer	soundcloud	/m/0cmd7rf	['6eg0yi', '6eg12l', '6eg28n', '6eg625', '6eg7au', '6eg8p0', '6eg8t3', '6eghpc', '6egl4b', '6egrqq', '6eitup', '6eg0yr', '6egas6', '6egf4r', '6egpij', '6ei3t7']	[1, 1, 5766, 1, 1, 1, 79, 407, 118, 1, 4, 1, 1, 1, 1, 0]	[0, 0, 1702, 0, 0, 0, 6, 28, 19, 0, 0, 0, 0, 0, 0, 0]	{'2017-05'}
+Roger Ebert	facebook	/m/0dfps	['f6uzw']	[1]	[0]	{'2011-06'}
+Roger Stone	twitter	/m/05r8b8	['79crlz', '79d5an', '79fhkj', '79gw70', '79luj2', '79e2pd', '79enxa', '79e6yl', '79fj1f', '79go2v', '79gufm', '79mgji', '79qn0h']	[1, 1, 1, 53, 9, 5992, 1, 1, 1, 1, 2, 1, 1]	[1, 0, 0, 7, 0, 172, 0, 0, 1, 0, 0, 1, 0]	{'2017-10'}
+Rose McGowan	twitter	/m/01m4yn	['75wkr2', '75v8i5', '75xodu', '761fr8', '75vh3y', '75vhye', '75vin3', '75vivt', '75w61r', '75vj37', '75vv82', '75vzmq', '75wp7u', '75wpdp', '75wzi4', '75wwtv', '75wxa4', '75wygt', '75wys7', '75wz15', '75xb8u', '75xefz', '75xh12', '75x7zz', '75xkcf', '75xrj6', '75y38c', '75yhdk', '75yk6s', '75zzxv', '76010w', '76068q', '76068z', '760jjr', '760ozt']	[472, 1112, 2, 1, 1, 1, 1, 2, 1, 1, 2, 6, 18, 1, 1, 1, 1, 1, 1, 1, 42, 1, 1, 12, 5, 27, 1, 444, 0, 1, 1, 1, 1, 1, 1]	[7, 316, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 13, 2, 0, 0, 4, 9, 0, 0, 0, 0, 0, 0]	{'2017-10'}
+Sabo	twitter	/g/121dctqt	['8c9i1e', '8ca0pq', 'bnkk0s']	[4656, 1, 938]	[233, 0, 6]	{'2018-04'}
+Saira Rao	twitter	/g/113qpl2vg	['ciw7fy', 'ciwbgy']	[1, 163]	[0, 24]	{'2019-07'}
+Sam Roddick	instagram	/m/04ct803	['34tfs6', '357vcb']	[1, 1]	[0, 1]	{'2015-05'}
+Sara Duterte	facebook	/m/010fbk48	['bbjpg7', 'bbjpj7', 'bbneg9']	[1, 1, 65]	[0, 0, 8]	{'2019-04'}
+Postmodern Jukebox	reddit	/m/0122p_nz	['14n0a0']	[2]	[0]	{'2012-12'}
+Martin Shkreli	twitter	/m/0hgmzsd	['5n74r2', '6dwd7s']	[1, 91]	[1, 6]	{'2017-05'}
+Tarek Fatah	facebook	/m/0965xg	['67y8v2']	[1]	[0]	{'2019-01', '2017-04'}
+Mitch McConnell	twitter	/m/01z6ls	['cnqzqw']	[1]	[1]	{'2019-08'}
+The Electronic Intifada	facebook	/m/0fbk5j	['8liv6f', '8liv7f', '8liv87', '8liv93']	[1, 3, 6, 2]	[0, 1, 2, 0]	{'2018-05'}
+The Fader	twitter	/m/026jyyk	['6jv9ir']	[1]	[0]	{'2017-06'}
+Thomas Wictor	twitter	/g/11b7qb3286	['bdyf7y']	[311]	[54]	{'2019-04'}
+A Shot at Love with Tila Tequila	twitter	/m/03c9zw4	['5edghx', '5edgm6', '5edgt2', '5edhc9', '5edimu']	[1, 1, 1, 3, 1]	[0, 0, 0, 2, 1]	{'2016-11'}
+"Tom Quiggin Live in Saskatoon: ""Country Before Party"""	twitter	/g/11h3y4tpcz	['b67alt', 'b6dtn7', 'b6dy2p']	[103, 1, 1]	[6, 0, 0]	{'2019-03'}
+Tommy Robinson	facebook	/m/0h1ht5z	['auyssy', 'auyvde', 'auywo4', 'auz1rd', 'auz1sc', 'auz1t9', 'auz1uc', 'auz5yd', 'auz8sf', 'av3tcd', 'av6r0m', 'avfd9s', 'auyx09', 'auzhux', 'auzk7n', 'auzktr', 'auzlzp', 'av00kj', 'av00ow', 'av011l', 'av013j', 'av07fm', 'av0an0', 'av0ixu', 'av0km4', 'av10fp', 'av37hj', 'av71b6', 'av8glr', 'avfabv', 'avfkyk', 'axx7dp', 'axx9l7', 'auyump', 'auz81c', 'auza2z', 'auzg6q', 'auzg7w', 'auzgbi', 'auztk0', 'av03xu', 'av0gn3', 'av1e2o', 'av1iao', 'av2b99', 'av3nrk', 'av3pgz', 'av0ae7', 'av1iy9', 'av52n7', 'avkthn']	[2, 1, 1, 1, 55, 110, 43, 1, 5, 1, 1, 1, 151, 2, 36, 339, 1, 1, 2, 129, 3, 1, 1, 202, 39, 1, 6, 1, 3, 1, 1, 1, 0, 1, 1, 1, 0, 7, 3, 0, 0, 1, 1, 1, 39, 3, 3, 2, 168, 1, 73]	[0, 0, 0, 0, 25, 117, 10, 0, 30, 1, 7, 1, 30, 0, 2, 42, 0, 0, 0, 13, 0, 0, 0, 27, 7, 1, 4, 0, 0, 0, 0, 0, 78, 0, 0, 0, 30, 2, 0, 0, 0, 0, 0, 1, 63, 0, 0, 27, 12, 0, 14]	{'2019-02'}
+Tommy Robinson	instagram	/m/0h1ht5z	['95ak4n', '95ak8j', 'av4ekk', 'av4es4', 'av6ep1', 'av6f6u']	[0, 0, 55, 2, 0, 34]	[3, 0, 4, 2, 0, 0]	{'2019-02'}
+Tommy Robinson	snapchat	/m/0h1ht5z	['b9p1ni', 'b9p1pi']	[274, 1]	[450, 0]	{'2019-04'}
+Tommy Robinson	twitter	/m/0h1ht5z	['80s9s2', '80shm0', '87qp03', '87t8rk', '87t8s8', '87zshd', '87t1y5', '87tgot', '87tjok', '87tj7c', '87tqdv', '87upnx', '87upr5', '87w4xu', '87wxy6', '6few5t', 'av2720', '87r2nd', '87u5s2', '87up94', '87vd07', '87vd1l', '87vfgn', '8s7ksm', '96pib5', 'b4p064', 'bhpcwv', 'bhpsuw', 'bhqteq', 'bhtbxc', 'bhx90h', 'bimokz', 'bhr2oi', 'bhr44g', 'bhrdu9', 'bhrqo1', 'bi29t7', 'bi2ba4', 'bi54xl', 'bht002', 'bipwmb']	[31, 1, 1, 5, 2, 1, 2, 1, 1, 2, 1, 0, 1, 105, 1, 2, 56, 4276, 1, 1, 0, 1, 1, 1, 1, 1, 1, 421, 5, 25, 37, 4, 1, 1, 1, 875, 1, 1, 3, 1, 41]	[2, 0, 0, 24, 0, 0, 0, 1, 1, 0, 0, 22, 0, 564, 0, 1, 2, 92, 0, 0, 0, 0, 1, 0, 0, 0, 0, 629, 2, 6, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 23]	{'2018-03'}
+Tyra Sanchez	twitter	/m/0cnzvy4	['8d0fq3']	[1]	[1]	{'2018-04'}
+Udo Ulfkotte	facebook	/m/02q806g	['4s9snh', '4s9sox']	[1, 7]	[0, 3]	{'2016-07'}
+Unidan	reddit	/m/0102bn54	['2c79b0', '2cvrgu', '2ei0w1', '2lxagx']	[9, 1, 1, 0]	[7, 0, 0, 1]	{'2014-07'}
+Charles C. Johnson	twitter	/g/11bw1wgv6n	['5pt928', '5pt9yj']	[1, 32]	[0, 13]	{'2015-05'}
+Zed Books	facebook	/m/06zmc8z	['4j9eor']	[1]	[6]	{'2016-05'}
+Zero Hedge	facebook	/m/07kf3pg	['b07zfs', 'b02434', 'b0b48m']	[77, 1, 2]	[14, 0, 0]	{'2019-03'}
+Abd ul-Rahman Lomax	wikipedia	/g/11h9nxwxxh	['fuae0j']	[0]	[4]	{'2017-12'}
+Skai Jackson	twitter	/m/0h95b3s	['ha6gai', 'h152gb', 'gz2aep']	[1, 1, 1]	[0, 0, 0]	{'2020-06'}
+Addison Rae	tiktok	/g/11j7vqw27y	['igxhch']	[1]	[0]	{'2020-08'}
+Al-Manar	twitter	/m/04pgy_	['dqqkwi']	[1]	[0]	{'2019-11'}
+Alfie Oakes	twitter	/g/11f0yjrlxy	['ln5n69']	[1]	[0]	{'2021-02'}
+Ali Alexander	twitter	/g/11hz8lt593	['kvb4xb']	[1]	[0]	{'2019-01'}
+Amanda Chase	facebook	/g/11bwn37nzq	['ktz00p', 'kt3eby', 'kt3dxq', 'kt3dbz']	[3, 1, 1, 1]	[35, 19, 78, 1]	{'2021-01'}
+Amit Shah	twitter	/m/0d3sk3	['jtd3vl', 'jta3se', 'jt83x3', 'jt814v', 'jt7pec']	[1, 1, 1, 1, 1]	[0, 0, 0, 0, 0]	{'2020-11'}
+Amul	twitter	/m/01tyhr	['gy9uw7', 'gxowe9', 'gxovwr']	[1, 1, 1]	[1, 3, 0]	{'2020-06'}
+Andrew Schulz	facebook	/m/0h5mpg2	['hvli6n']	[40]	[14]	{'2020-07'}
+Andy Ngo	twitter	/g/11hz1hlsk8	['e3beq7', 'e287fi', 'e1y6iv', 'e1uru5', 'e1uf8y', 'e1rxvy', 'e1rudx', 'e1pxkr', 'e21pm7']	[1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 1, 0, 0, 23, 58, 6, 1, 2]	{'2019-11'}
+Armin Navabi	facebook	/g/11gdkr6_pf	['lftzsa', 'lfh4d7', 'lfdl2u']	[1, 1, 1]	[0, 37, 1]	{'2015-01'}
+Pete Evans	facebook	/m/0zx05c9	['kirdlt']	[1]	[0]	{'2020-12'}
+Pete Evans	instagram	/m/0zx05c9	['llodi1', 'lmizpm']	[1, 1]	[0, 0]	{'2021-02'}
+Avi Yemini	twitter	/g/11byw_55rl	['d9ioem', 'd8rwh6', 'd8rwff', 'd8k0q0', 'd8g6q7', 'd8g5vy']	[166, 49, 46, 3, 12, 13]	[22, 2, 1, 8, 3, 11]	{'2019-09'}
+Jeyhun Bayramov	twitter	/g/11gt__kk5s	['jo7fl0']	[1]	[0]	{'2020-11'}
+Rajasingam	facebook	/m/0czb72_	['ilo5i7', 'ilo29d']	[1, 1]	[0, 2]	{'2020-09'}
+Rajasingam	twitter	/m/0czb72_	['itrpyf']	[1]	[0]	{'2020-09'}
+Stephen K. Bannon	facebook	/m/0bqscsg	['jrsjrx', 'jrs9lu']	[1, 1]	[0, 0]	{'2020-11'}
+Stephen K. Bannon	twitter	/m/0bqscsg	['ju6tha', 'jpe4vu', 'jpdo2i', 'g0lnk5', 'g0lgzu', 'g0kelr']	[1, 1, 1, 1, 20, 27]	[0, 0, 0, 0, 1, 26]	{'2020-11'}
+Benny Johnson	twitter	/m/011c0t0f	['gv7g58']	[1]	[0]	{'2020-06'}
+Bill Mitchell	twitter	/m/026_6cj	['iadged', 'iadbs4']	[1, 1]	[0, 0]	{'2020-08'}
+Bjarne Stroustrup	reddit	/m/017bd	['ibxc5x', 'ia6u5t']	[1, 1]	[2, 105]	{'2020-08'}
+Eric M. Lang	twitter	/g/11csr0hk17	['hp0mgb']	[1]	[0]	{'2020-07'}
+Mark A. Morgan	twitter	/g/11csrt6fxd	['jke8dh', 'jkdo20', 'jkdn01', 'jkdhbz']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2020-10'}
+Bret Weinstein	facebook	/g/11g0lczzr8	['jtxdqh']	[1]	[2]	{'2020-10'}
+Brett Keane	gab	/g/11hfhdzpgj	['iw2uyo']	[1]	[7]	{'2020-09'}
+Briscoe Cain	twitter	/g/11c2r12f1q	['k6f50w']	[1]	[2]	{'2019-09'}
+Cardano	wikipedia	/g/11gf2dcwbj	['foyx38', 'foyu0h', 'foys44', 'foyl5v', 'foyjuc', 'foybrg', 'mt3mfa', 'foy8lc', 'foxide']	[1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 0, 0, 0, 0, 0, 0, 0, 0]	{'2020-03'}
+Chapo Trap House	reddit	/g/11cry9j5g5	['higx02']	[1]	[1]	{'2020-06'}
+Charli D'Amelio	tiktok	/g/11gxps_wbg	['kech3r']	[1]	[0]	{'2020-12'}
+Coco	instagram	/m/012mzpq5	['ino36c']	[1]	[0]	{'2020-09'}
+Charlie Kirk	twitter	/g/11dxr0rnh2	['jf5cu2', 'jet297', 'jepuv1']	[1, 1, 1]	[0, 0, 0]	{'2020-10'}
+Charlie Kirk	facebook	/g/11dxr0rnh2	['j7m7jq', 'j7jjtb', 'j7id8v', 'j7i9vs', 'j7hquv']	[1, 1, 1, 1, 1]	[0, 8, 0, 0, 0]	{'2020-10'}
+Margarita Simonyan	facebook	/m/0h95w7m	['d3dnta', 'd3d0sm', 'd3czab', 'd3cza6', 'd3cyvi']	[1, 1, 1, 1, 1]	[0, 0, 0, 0, 0]	{'2019-09'}
+Chris Sky	instagram	/g/11mx5523h3	['mtck89']	[1]	[20]	{'2021-04'}
+Doug Mastriano	twitter	/m/0134y667	['k1jhlb', 'k1jhax']	[1, 1]	[0, 37]	{'2020-11'}
+Sam Hyde	twitter	/g/11mtm_3znb	['emostq']	[1]	[0]	{'2020-01'}
+Shashank Tripathi	twitter	/g/11j636j2gt	['eybu2t']	[1]	[7]	{'2020-02'}
+Terrence Williams	facebook	/m/0281b90	['dyct6h']	[1]	[1]	{'2019-12'}
+Jack Burkman	twitter	/m/011smp4q	['flvfw4', 'flu8cn', 'flmnla', 'flmndq', 'flmn8k']	[1, 1, 1, 1, 1]	[1, 20, 14, 9, 23]	{'2020-03'}
+Wayne Allyn Root	twitter	/m/027nqkk	['lezuf3']	[5]	[8]	{'2021-02'}
+Stefan Molyneux	twitter	/m/0fvfg6	['hnwgw6', 'hnw627']	[1, 1]	[0, 0]	{'2020-07'}
+Joey Salads	twitter	/g/11j5snpq10	['gimuo4', 'gimu6g']	[1, 1]	[2, 2]	{'2020-05'}
+Cory Doctorow	twitter	/m/01g6bk	['fmyyqb', 'fmhs7i', 'fm4kqd']	[1, 1, 1]	[4, 1, 11]	{'2020-03'}
+Craig Kelly	facebook	/m/0crhlqn	['lkwpl0', 'lkw53j', 'mypoxa', 'myp2qr', 'myoybw', 'myoqn1', 'myoa8a', 'lhybpt', 'lhy3gh', 'lhxu5f', 'lhvwoi', 'lhvwoilkz26v', 'lkz26v', 'lkz1it']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 1, 1]	[34, 23, 0, 0, 3, 0, 156, 0, 5, 16, 96, 960, 0, 0]	{'2021-02'}
+David Icke	facebook	/m/0hvwn	['gcf1v3']	[1]	[20]	{'2020-04'}
+David Icke	twitter	/m/0hvwn	['jy4zgs', 'jnzxth', 'jnw5z0', 'jnup6q', 'jnucb3', 'jnu33p', 'jnss1r', 'jnsfzn', 'jns4y1', 'jnrx8o', 'jnqkv9', 'jnqdik', 'jnqdde', 'jnqblw', 'jnq3kl', 'jnn2sn', 'jnmo98', 'jnmknk', 'jnmki6', 'jnmhp9', 'jnvfqa', 'jnkoh3']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 0, 1, 0, 8, 0, 0, 0, 0, 0, 0, 2, 440, 53, 0, 0, 0, 0, 0, 0, 7, 16]	{'2020-11'}
+Distributed Denial of Secrets	twitter	/g/11jp7y0w3t	['hk20hy', 'hhaq1e', 'hgxhgq', 'hfbnkq', 'heyg9a', 'hews65', 'heq9k4', 'heptfr', 'heptff']	[1, 1, 1, 1, 1, 1, 1, 1, 1]	[1, 1, 0, 0, 0, 0, 0, 0, 7]	{'2020-06'}
+Donald Trump	facebook	/m/0cqt90	['kssknr']	[1]	[3]	{'2021-01'}
+Donald Trump	twitter	/m/0cqt90	['ktew45']	[6]	[45]	{'2021-01'}
+Donald Trump	reddit	/m/0cqt90	['kt8dcn', 'kt89nq', 'hi941r', 'hi8n8j', 'hi8ll9', 'hi5jwc', 'hi5hjy', 'hi5g6e', 'hi56ac', 'hi4vqm', 'hia6ry']	[1, 48, 1, 1, 1, 1, 2, 1, 2, 35, 4]	[0, 30, 0, 0, 0, 0, 0, 0, 0, 8, 0]	{'2021-01', '2020-06'}
+Donald Trump	snapchat	/m/0cqt90	['kx3ipp']	[1]	[0]	{'2021-01'}
+Donald Trump	tiktok	/m/0cqt90	['ku40vf', 'i3dakr', 'i1mz3j']	[1, 1, 1]	[2, 0, 0]	{'2020-08', '2021-01'}
+David Clarke	twitter	/m/0_yglzq	['fjvy3o', 'fjvxr9', 'fjr9lx', 'fjr5xp', 'fjpupq', 'fjpuke', 'fjpanj', 'fjp87z', 'fjoon4', 'fjooea']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 2, 2, 2, 2, 2, 2, 2, 2, 63]	{'2020-03'}
+David Duke	twitter	/m/02bpjk	['i2znxw', 'i2znwr', 'i2znw1']	[1, 1, 1]	[0, 0, 0]	{'2020-08'}
+David Vance	twitter	/m/0y7x07c	['iq308m']	[1]	[6]	{'2020-09'}
+Destiny	steam	/g/11gwmht40x	['dqkxi5']	[3]	[6]	{'2021-04'}
+Diamond and Silk	twitter	/g/11cky74bnk	['fyf60v']	[1]	[2]	{'2020-04'}
+Dieudonne	facebook	/m/09clhm	['i6loii']	[1]	[1]	{'2020-08'}
+Dieudonne	tiktok	/m/09clhm	['i7o85i']	[1]	[0]	{'2020-08'}
+Dieudonne	instagram	/m/09clhm	['i2xmm5', 'i2xc9a', 'i2x9a4']	[1, 1, 1]	[1, 0, 0]	{'2020-08'}
+Ron Paul	facebook	/m/016lh0	['kvbon7']	[1]	[0]	{'2021-01'}
+Draven	reddit	/g/11bx1y8fl1	['hmhvzv']	[1]	[4]	{'2020-07'}
+El Gato Malo	twitter	/g/1s05v5jrx	['krcyeb', 'krctvw']	[1, 1]	[3, 50]	{'2021-01'}
+Enrique Tarrio	twitter	/g/11h201znmr	['j3m3y3', 'j3lryw', 'j3lrpi', 'j3ecna']	[1, 1, 1, 24]	[0, 6, 5, 1332]	{'2019-03'}
+Michael Flynn	twitter	/m/09v12g0	['ktenpp']	[3]	[10]	{'2021-01'}
+Pete Hegseth	twitter	/m/0hr0_bn	['e8iuj5']	[1]	[0]	{'2019-12'}
+Freddie Gibbs	instagram	/m/080886b	['flgsad']	[1]	[13]	{'2020-12'}
+Marjorie Taylor Greene	twitter	/g/11fscs046n	['kzjmkk']	[1]	[0]	{'2021-03'}
+Gad Saad	facebook	/m/02qn6km	['mfrze9']	[1]	[0]	{'2021-03'}
+The Gateway Pundit	twitter	/g/11g69gd6v8	['lfn12k', 'l8vc60', 'l8vc60lk7o18', 'lk7o18']	[1, 1, 11, 1]	[0, 5, 50, 0]	{'2021-02'}
+Gemma O'Doherty	twitter	/m/0102q8s2	['i2russ']	[1]	[0]	{'2020-08'}
+Newt Gingrich	twitter	/m/018fzs	['m4lsvz']	[1]	[0]	{'2021-03'}
+Boogaloo	facebook	/m/02sns2	['hjoqg7']	[1]	[0]	{'2020-07'}
+Graham Linehan	twitter	/m/02yl1l	['hgnb49', 'hgss96', 'hgplbc', 'enmxid']	[1, 1, 1, 1]	[62, 5, 329, 40]	{'2020-06'}
+Granma	twitter	/m/096g43	['d3hahv']	[9]	[0]	{'2019-09'}
+Groypers	tiktok	/g/11jh72g1gp	['g758td']	[1]	[0]	{'2020-04'}
+Benjamin Netanyahu	facebook	/m/0fm2h	['l4w7xl', 'd5t6u5', 'd5sl9g', 'd5skm6']	[1, 1, 2, 1]	[0, 0, 0, 0]	{'2021-01', '2019-09'}
+James O'Keefe	twitter	/m/07s76_k	['mtiype', 'mtiymb']	[1, 1]	[1, 0]	{'2021-04'}
+Jeremy Boreing	twitter	/m/0gcdzbl	['dqeh58']	[1]	[0]	{'2019-01'}
+Jeremy Griggs	twitter	/g/11h_ypgkbj	['hccms9']	[1]	[0]	{'2020-06'}
+Jordan Chariton	twitter	/g/11g8vw5_ph	['fqskp7']	[19]	[26]	{'2020-03'}
+Paul E. Sperry	twitter	/m/05vh0cm	['lngx7j', 'lmph1g']	[2, 1]	[4, 1]	{'2021-02'}
+Tom Fitton	twitter	/m/0gc8tj	['kv7lsn', 'kv5ybn', 'kv5pmk', 'kuzgrt', 'kuzb29']	[1, 2, 1, 0, 1]	[0, 2, 2, 58, 0]	{'2021-01'}
+Bharatiya Janata Party, Karnataka	twitter	/g/11j22ph3g2	['f2qt1z']	[1]	[33]	{'2020-02'}
+Raheem Kassam	twitter	/g/11c1wm2mms	['lx2mwl', 'lsagh1']	[33, 1]	[4, 2]	{'2021-02'}
+Kathy Zhu	twitter	/g/11h4qbdgm_	['f65bs8']	[1]	[30]	{'2020-02'}
+Katie Hopkins	twitter	/m/02r9469	['hcvqod', 'hcr20f', 'hcpwsf', 'hcps9x', 'hcl2v5', 'f03dsd', 'ezi45d', 'ezhfil', 'ezhd1l', 'eytyue', 'eytyjz', 'hc8rfe', 'hcmy94', 'hcmhvh', 'hcjage', 'hci9s1', 'hch9sk', 'hcdgoi', 'hcdd80', 'hccm1x', 'hcblld', 'hc831u', 'hc7lmf', 'hc74sp', 'hc73r7', 'hc5lja', 'hc4zma', 'hc4wbd', 'hc3yha', 'hc3k43', 'ewpyxh', 'ewbged']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 24, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 14, 1, 273, 0, 1, 99, 1, 1]	[0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 23, 0, 0, 0, 53, 0, 1, 0, 4, 3, 0, 0, 0, 3, 0, 2995, 5, 1, 947, 0, 3]	{'2020-06'}
+Kendra Sunderland	instagram	/m/0130gqzq	['kc92gt']	[1]	[0]	{'2020-12'}
+Kevin Von Erich	twitter	/m/062hmt	['kuuv3e']	[5]	[24]	{'2021-01'}
+Mike Harlow	twitter	/g/11qnrtwttv	['dl9p8g']	[1]	[0]	{'2019-10'}
+Lauren Boebert	twitter	/g/11j2v06x6p	['kx1pl2', 'kwtiod', 'kwsxvy']	[1, 2, 79]	[0, 0, 144]	{'2021-01'}
+L. Lin Wood	twitter	/m/02w7ws5	['kteb06', 'kt3jfs']	[52, 1]	[46, 0]	{'2021-01'}
+Leland Sklar	facebook	/m/01w9xqp	['fwwely']	[1]	[15]	{'2020-04'}
+Lindsay Shepherd	twitter	/g/11g0mg_tws	['dh0bgb']	[121]	[32]	{'2019-07'}
+Michelle Malkin	twitter	/m/02kr2w	['gwd3oe', 'gw4lqf', 'gw2yg2', 'gw0ocu', 'gw0jkz', 'gw0du5', 'gvzot5']	[1, 1, 1, 1, 1, 1, 1]	[0, 0, 2, 0, 0, 0, 0]	{'2020-06'}
+Michelle Malkin	twitter	/m/02kr2w	['l25wra', 'l1h66p', 'l1h5xo', 'l1h1vk', 'l1e1rq', 'l1dxno', 'l0smnr', 'l0skhq']	[4, 1, 2, 10, 1, 1, 1, 1]	[12, 25, 24, 44, 0, 0, 0, 0]	{'2021-01'}
+Andile Mngxitama	facebook	/g/11f6zxsb3p	['ds8jwb']	[9]	[5]	{'2019-11'}
+Mr. Faisu	tiktok	/g/11hfp3md1j	['hjv31t']	[1]	[0]	{'2020-07'}
+Michael J. Lindell	twitter	/m/0t5wz49	['l5cidq', 'l59emo', 'l59e60', 'l5861f', 'l5dtem', 'l5coh4']	[1, 1, 1, 1, 1, 1]	[0, 1, 1, 1, 1, 0]	{'2021-01'}
+My Pillow	twitter	/m/0t522pk	['lbq6e7']	[0]	[0]	{'2021-02'}
+My Pillow	twitter	/m/0t522pk	['lb3lci', 'lauusr']	[1, 1]	[0, 5]	{'2021-02'}
+Nnamdi Kanu	facebook	/g/11bwgw6s5w	['lbzqok', 'lbv9gj', 'lbqgng']	[1, 1, 1]	[0, 0, 0]	{'2021-02'}
+Onision	instagram	/g/11ddxv3wj1	['f7637x']	[1]	[0]	{'2020-02'}
+Patrick Byrne	twitter	/m/09lt82	['kwo0z9', 'kwm055', 'kwluqu', 'lxkx7t', 'kwsonc']	[1, 1, 2, 2, 1]	[4, 0, 3, 0, 0]	{'2021-01'}
+Joey Gibson	facebook	/g/11f_rx3vkd	['j2q5vn', 'iox7ld', 'in94c0', 'in90ap', 'in11xx', 'in0nwy', 'imysxz', 'imyppt', 'imyir5', 'imxnau', 'imvrml', 'imv8go', 'imv6mx', 'imv4g2', 'imv340', 'imuvqm', 'impkqf', 'inw4l0', 'inw462', 'in02qt', 'imz30f', 'imyw0v', 'imyv7a', 'imq8n7', 'imq53u', 'imp4tf', 'imp4l4', 'imobj9', 'imobj9incdwv', 'incdwv', 'impn0n', 'impj0l', 'imp5nf']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 1, 1, 1, 1]	[1, 12, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]	{'2020-09'}
+Perez Hilton	tiktok	/m/0dzsp8	['kdcv1m', 'kd9a8u', 'kd91s0', 'kcdq8p']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2020-12'}
+Sidney Powell	twitter	/m/0_6b6rf	['k0psvv']	[1]	[53]	{'2021-01'}
+Nicolás Maduro	facebook	/m/0h7hb4	['mfapon', 'mf5lz8', 'mfl8j5']	[1, 1, 1]	[0, 0, 3]	{'2021-03'}
+Robert F. Kennedy, Jr.	instagram	/m/02l5km	['lhrov4']	[1]	[17]	{'2021-02'}
+Sukhram Singh Yadav	twitter	/g/11c43sdnk5	['lhqru2']	[1]	[0]	{'2021-02'}
+Talib Kweli	twitter	/m/018n9d	['i49y5q', 'i45a60', 'i455l0', 'i452l4', 'i450j5', 'i44n8o', 'i44j3j']	[2, 1, 1, 1, 1, 1, 1]	[3, 0, 0, 0, 0, 0, 4]	{'2020-08'}
+Renee Gracie	instagram	/g/11cs4mnwgk	['kwdsy8']	[1]	[0]	{'2021-01'}
+Ilhan Omar	twitter	/g/11c4wx5dm0	['e50c3v']	[1]	[0]	{'2019-12'}
+Ron Watkins	twitter	/g/11gdgh04fl	['ktd2r7']	[5]	[9]	{'2021-01'}
+Salil Tripathi	twitter	/g/113t41m68	['k8lesd', 'k8lbrx', 'k7z6hd', 'k7z5jw']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2020-12'}
+Saoud Al Qahtani	twitter	/g/11f0kx2g92	['d6xpz2', 'd6xmei']	[1, 1]	[0, 0]	{'2019-09'}
+Scihub Ltd	twitter	/g/11jfmbt6fb	['kz8yb5']	[1]	[23]	{'2021-01'}
+Sherlyn Chopra	instagram	/m/05p5_gg	['kvngzx']	[1]	[3]	{'2021-01'}
+Win Gatchalian	twitter	/m/05q7hws	['d0bvei']	[44]	[13]	{'2019-09'}
+Titania McGrath	twitter	/g/11h0bpzq1m	['d5jwux', 'd5jvx6', 'd5jtba', 'd5jt3c', 'd5jt1a', 'd5jsi6', 'd5fwax', 'd5fv2k', 'd5fv0o']	[0, 1, 1, 1, 1, 2, 1, 1, 1]	[0, 0, 0, 0, 0, 0, 0, 0, 0]	{'2018-12'}
+SpaceGhostPurrp	twitter	/m/0k2lz47	['kuorki', 'kuop0g']	[1, 1]	[0, 2]	{'2018-01'}
+Steve Bannon	twitter	/g/11hg4mv3kl	['jqggvi', 'g0p95g', 'g0msni', 'g0ml59', 'g0lv5c', 'g0kuiy', 'jt6y7o']	[1, 1, 1, 7, 1, 41, 1]	[1, 0, 0, 0, 0, 2, 0]	{'2020-11'}
+That Vegan Teacher	tiktok	/g/11k97yp5q0	['ls7wy2']	[1]	[0]	{'2021-02'}
+The Babylon Bee	facebook	/g/11bzrjgx_f	['jfrn65', 'jfdfj2']	[1, 1]	[9, 2]	{'2020-10'}
+The Babylon Bee	twitter	/g/11bzrjgx_f	['iczsi0', 'iczg9y', 'iczdue', 'ibp0km']	[1, 1, 1, 1]	[0, 0, 0, 0]	{'2020-08'}
+The Lincoln Project	twitter	/g/11jf_wlz27	['jsbtx7', 'jsbaaw']	[1, 1]	[0, 0]	{'2020-11'}
+Ron Unz	facebook	/m/0cbnfn	['gis1a4', 'gbjfxp']	[1, 1]	[0, 3]	{'2020-05'}
+John 'Tig' Tiegen	facebook	/g/11c5gf51zr	['jbfxyf', 'jafhyj', 'jafhsq']	[1, 1, 1]	[0, 0, 0]	{'2020-10'}
+Bola Tinubu	wikipedia	/m/08m2c5	['mkjvri']	[1]	[1]	{'2021-04'}
+Donald Trump Jr.	twitter	/m/0dzqp5	['i04f6e', 'i030lb', 'i0uv56']	[1, 1, 1]	[0, 0, 0]	{'2020-07'}
+Jamie Allman	facebook	/g/11k8kmb395	['je2bnh', 'jdvi5l', 'jdupb0', 'jduml7', 'jdumfe', 'jdsep1', 'jdq7gv', 'jdq14b', 'jdpj3e', 'jdp8rg']	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]	[0, 17, 12, 51, 4, 0, 4, 0, 0, 1]	{'2020-10'}
+Tillie Kottmann	twitter	/g/11pbtt3wfq	['m1y1d1']	[1]	[0]	{'2021-03'}
+Kayleigh McEnany	twitter	/m/0k2l4q1	['jbg30z']	[1]	[4]	{'2020-10'}
+Wiley	facebook	/m/02mwrv	['hzgjed', 'hzgjbj', 'hzgjbjhzh95p', 'hzh95p']	[1, 1, 11, 1]	[0, 0, 0, 0]	{'2020-07'}
+Wiley	twitter	/m/02mwrv	['hye1xr']	[1]	[0]	{'2020-07'}
+Oath Keepers	twitter	/m/07k4rxv	['ir1u1g', 'iqolzt', 'iqeffu']	[1, 1, 1]	[0, 1, 2]	{'2020-09'}

@@ -1,0 +1,18 @@
+pattern	precision
+<ent> ✘ on <plat>	11.991244852313931
+<ent> ひ✘ on <plat>	10.021270588192511
+<plat> employee deactivated <ent>	6.270988431858299
+<plat> employee 'deactivated' <ent>	6.089044875446846
+<plat> employee deactivates <ent>	5.085829180314881
+<plat> bans <ent>	2.886548172844155
+<plat> suspends <ent>	2.3893487771345945
+<plat> suspended <ent>	2.06028163691183
+<plat> banned <ent>	1.9955835374483193
+<plat> removes <ent>	1.9141944977442467
+<plat> ban <ent>	1.6384460126164393
+<plat> banning <ent>	1.2104187963322623
+<ent> locked out of <plat>	1.1408813461993463
+<ent> blocked on <plat>	1.1201222098059087
+<plat> deleted <ent>	0.988771710600958
+<plat> takes down <ent>	0.8089299309840494
+<plat> blocks <ent>	0.7881718168116237

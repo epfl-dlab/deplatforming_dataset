@@ -1,0 +1,185 @@
+	pattern	cnt	substring
+0	<ent> bans <plat>	908.0	 bans 
+1	<ent> ✘ on <plat>	500.0	 ✘ on 
+2	<plat> suspends <ent>	432.0	 suspends 
+3	<ent> suspended from <plat>	358.0	 suspended from 
+4	<plat> shut down <ent>	254.0	 shut down 
+5	<plat> permanently bans <ent>	230.0	 permanently bans 
+6	<plat> has banned <ent>	186.0	 has banned 
+7	<ent> ひ✘ on <plat>	152.0	 ひ✘ on 
+8	<plat> profiles harvested for <ent>	134.0	 profiles harvested for 
+9	<plat> war with <ent>	129.0	 war with 
+10	<ent> blocks <plat>	115.0	 blocks 
+11	<ent> has been banned from <plat>	113.0	 has been banned from 
+12	<ent> banned <plat>	112.0	 banned 
+13	<plat> bans alex jones and <ent>	107.0	 bans alex jones and 
+14	<plat> permanently bans alex jones and <ent>	106.0	 permanently bans alex jones and 
+15	<plat> to ban <ent>	105.0	 to ban 
+16	<ent> was banned from <plat>	101.0	 was banned from 
+17	<ent> kicked off <plat>	95.0	 kicked off 
+18	<ent> can't block people on <plat>	93.0	 can't block people on 
+19	<ent> has been suspended from <plat>	88.0	 has been suspended from 
+20	<ent> blocks <plat>	88.0	 blocks 
+21	<ent> quits <plat>	85.0	 quits 
+22	<ent> permanently banned from <plat>	82.0	 permanently banned from 
+23	<ent> can't block <plat>	82.0	 can't block 
+24	<ent> cannot block <plat>	81.0	 cannot block 
+25	<ent> returns to <plat>	71.0	 returns to 
+26	<ent>'s blocking of <plat>	71.0	's blocking of 
+27	<plat> permanently bans alex jones, <ent>	69.0	 permanently bans alex jones, 
+28	<ent> to delete his <plat>	67.0	 to delete his 
+29	<ent> got banned from <plat>	61.0	 got banned from 
+30	<ent> warns <plat>	61.0	 warns 
+31	<ent> leveraged <plat>	60.0	 leveraged 
+32	<plat> ban <ent>	57.0	 ban 
+33	<ent> blocks access to <plat>	56.0	 blocks access to 
+34	<ent> removes <plat>	52.0	 removes 
+35	<plat> mocks <ent>	52.0	 mocks 
+36	<plat> shuts down 5,000 pro-<ent>	51.0	 shuts down 5,000 pro-
+37	<ent> unblocks more <plat>	51.0	 unblocks more 
+38	<plat> trolls deflected <ent>	51.0	 trolls deflected 
+39	<ent> confronts <plat>	50.0	 confronts 
+40	<ent> blocked him on <plat>	49.0	 blocked him on 
+41	<ent> leaves <plat>	49.0	 leaves 
+42	<plat> censoring <ent>	48.0	 censoring 
+43	<plat> users blocked by <ent>	48.0	 users blocked by 
+44	<plat>purge #twitterlockout? starting new #<ent>	48.0	purge #twitterlockout? starting new #
+45	<plat> just permanently suspended conservative writer <ent>	46.0	 just permanently suspended conservative writer 
+46	<plat> feud with <ent>	46.0	 feud with 
+47	<ent> is back on <plat>	45.0	 is back on 
+48	<plat> employee deactivates <ent>	45.0	 employee deactivates 
+49	<ent> gets banned from <plat>	45.0	 gets banned from 
+50	<plat> admits <ent>	43.0	 admits 
+51	<plat> blocked in <ent>	43.0	 blocked in 
+52	<plat> is censoring <ent>	43.0	 is censoring 
+53	<ent> for blocking <plat>	43.0	 for blocking 
+54	<ent> back on <plat>	42.0	 back on 
+55	<ent> permanently suspended from <plat>	41.0	 permanently suspended from 
+56	<plat> has suspended the account of the whistleblower who exposed <ent>	41.0	 has suspended the account of the whistleblower who exposed 
+57	<plat> removes accounts linked to <ent>	39.0	 removes accounts linked to 
+58	<plat> suspends conspiracy theorist <ent>	39.0	 suspends conspiracy theorist 
+59	<ent> could not block <plat>	39.0	 could not block 
+60	<plat> suspended <ent>	39.0	 suspended 
+61	<plat> urged to suspend <ent>	38.0	 urged to suspend 
+62	<plat> censors <ent>	38.0	 censors 
+63	<ent> loses <plat>	36.0	 loses 
+64	<ent> could be banned from <plat>	36.0	 could be banned from 
+65	<plat> bans analyst who revealed <ent>	36.0	 bans analyst who revealed 
+66	<plat> erupts over <ent>	36.0	 erupts over 
+67	<ent> banned <plat>	35.0	 banned 
+68	<ent> banned on <plat>	34.0	 banned on 
+69	<ent> deletes his <plat>	34.0	 deletes his 
+70	<ent> hunt down <plat>	34.0	 hunt down 
+71	<plat> bans the <ent>	33.0	 bans the 
+72	<plat> permanently suspends <ent>	33.0	 permanently suspends 
+73	<plat> roasts <ent>	32.0	 roasts 
+74	<ent> is suspended from <plat>	32.0	 is suspended from 
+75	<plat> employee who shut down <ent>	31.0	 employee who shut down 
+76	<ent> threatens to shut down <plat>	30.0	 threatens to shut down 
+77	<plat> to censor <ent>	29.0	 to censor 
+78	<ent> vs. <plat>	29.0	 vs. 
+79	<ent> being banned from <plat>	29.0	 being banned from 
+80	<plat> suspends army of fake accounts after <ent>	29.0	 suspends army of fake accounts after 
+81	<plat> employee who deleted <ent>	29.0	 employee who deleted 
+82	<plat> account calls <ent>	29.0	 account calls 
+83	<plat> employee deletes <ent>	28.0	 employee deletes 
+84	<ent> slams <plat>	28.0	 slams 
+85	<ent> permanently banned by <plat>	28.0	 permanently banned by 
+86	<ent> get banned from <plat>	28.0	 get banned from 
+87	<plat> bans far-right groups including bnp, edl and <ent>	28.0	 bans far-right groups including bnp, edl and 
+88	<ent> deletes <plat>	28.0	 deletes 
+89	<plat> permanently bans conspiracy theorist <ent>	28.0	 permanently bans conspiracy theorist 
+90	<plat> bans far-right activist <ent>	28.0	 bans far-right activist 
+91	<plat> should ban <ent>	27.0	 should ban 
+92	<plat> locks <ent>	27.0	 locks 
+93	<ent> has been permanently banned from <plat>	27.0	 has been permanently banned from 
+94	<ent> suspended by <plat>	27.0	 suspended by 
+95	<plat> bans far-right group <ent>	27.0	 bans far-right group 
+96	<ent> suspended on <plat>	26.0	 suspended on 
+97	<plat> is “shadow banning” prominent republicans like the rnc chair and <ent>	26.0	 is “shadow banning” prominent republicans like the rnc chair and 
+98	<ent> threatens to sue <plat>	25.0	 threatens to sue 
+99	<ent> can’t block people on <plat>	25.0	 can’t block people on 
+100	<ent> deletes <plat>	25.0	 deletes 
+101	<plat> has permanently banned <ent>	25.0	 has permanently banned 
+102	<plat> employee deactivated <ent>	25.0	 employee deactivated 
+103	<plat>lockout #twitterpurge #<ent>	25.0	lockout #twitterpurge #
+104	<ent> worth to <plat>	25.0	 worth to 
+105	<plat> removes pages belonging to far-right group '<ent>	24.0	 removes pages belonging to far-right group '
+106	<plat> excluded from <ent>	24.0	 excluded from 
+107	<plat> suspends conservative activist <ent>	24.0	 suspends conservative activist 
+108	<ent> blocked on <plat>	24.0	 blocked on 
+109	<plat> suspends another data analytics firm after cnbc discovers tactics like <ent>	24.0	 suspends another data analytics firm after cnbc discovers tactics like 
+110	<ent> banning <plat>	24.0	 banning 
+111	<plat> spat with <ent>	24.0	 spat with 
+112	<plat> key for <ent>	23.0	 key for 
+113	<ent> be banned from <plat>	23.0	 be banned from 
+114	<ent> suspended permanently by <plat>	23.0	 suspended permanently by 
+115	<ent> asked <plat>	23.0	 asked 
+116	<ent> gets <plat>	23.0	 gets 
+117	<plat> to remove <ent>	23.0	 to remove 
+118	<ent> deleted <plat>	22.0	 deleted 
+119	<ent> locked out of <plat>	22.0	 locked out of 
+120	<ent> amid <plat>	22.0	 amid 
+121	<ent> sues <plat>	22.0	 sues 
+122	<plat> permanently suspends conservative writer <ent>	22.0	 permanently suspends conservative writer 
+123	<ent> for blocking her on <plat>	21.0	 for blocking her on 
+124	<ent> for blocking him on <plat>	21.0	 for blocking him on 
+125	<ent> for blocking me on <plat>	21.0	 for blocking me on 
+126	<ent> lights up <plat>	21.0	 lights up 
+127	<plat> employee 'deactivated' <ent>	21.0	 employee 'deactivated' 
+128	<ent> off <plat>	21.0	 off 
+129	<plat> allows <ent>	21.0	 allows 
+130	<plat> to remove donald <ent>	20.0	 to remove donald 
+131	<plat> takes down <ent>	20.0	 takes down 
+132	<ent>, quits <plat>	20.0	, quits 
+133	<plat> removes fake accounts from <ent>	20.0	 removes fake accounts from 
+134	<plat> troll <ent>	20.0	 troll 
+135	<plat> suspending users who post <ent>	20.0	 suspending users who post 
+136	<ent> responds to <plat>	20.0	 responds to 
+137	<plat>, ban <ent>	19.0	, ban 
+138	<plat> followers than donald <ent>	19.0	 followers than donald 
+139	<ent> violated first amendment by blocking <plat>	19.0	 violated first amendment by blocking 
+140	<ent> deleted his <plat>	19.0	 deleted his 
+141	<plat> suspends account of <ent>	19.0	 suspends account of 
+142	<plat> bot targeted maxine waters, a prominent <ent>	19.0	 bot targeted maxine waters, a prominent 
+143	<plat> finally bans <ent>	19.0	 finally bans 
+144	<ent> trolls <plat>	19.0	 trolls 
+145	<plat> temporarily restricts <ent>	18.0	 temporarily restricts 
+146	<ent> bans <plat>	18.0	 bans 
+147	<plat> says it will ban <ent>	18.0	 says it will ban 
+148	<ent> to block people on <plat>	18.0	 to block people on 
+149	<plat> and ban <ent>	18.0	 and ban 
+150	<plat> is blocked in <ent>	17.0	 is blocked in 
+151	<ent> marks one year without <plat>	17.0	 marks one year without 
+152	<plat> employee shut down <ent>	17.0	 employee shut down 
+153	<plat> bans conservative <ent>	17.0	 bans conservative 
+154	<ent> throws <plat>	17.0	 throws 
+155	<ent> got permanently kicked off <plat>	17.0	 got permanently kicked off 
+156	<plat> says it will label tweets from <ent>	17.0	 says it will label tweets from 
+157	<plat> beef with <ent>	17.0	 beef with 
+158	<ent> can block people on <plat>	17.0	 can block people on 
+159	<plat> removes potential evidence of <ent>	16.0	 removes potential evidence of 
+160	<plat> for banning <ent>	16.0	 for banning 
+161	<ent> takes on <plat>	16.0	 takes on 
+162	<ent> responds to <plat>	16.0	 responds to 
+163	<plat> has banned far-right group <ent>	16.0	 has banned far-right group 
+164	<ent> ban on <plat>	16.0	 ban on 
+165	<plat> sued for blocking <ent>	16.0	 sued for blocking 
+166	<ent> just banned <plat>	16.0	 just banned 
+167	<plat> to suspend <ent>	16.0	 to suspend 
+168	<plat> vs <ent>	15.0	 vs 
+169	<plat> takes down hundreds of <ent>	15.0	 takes down hundreds of 
+170	<plat> fight with <ent>	15.0	 fight with 
+171	<ent> to block <plat>	15.0	 to block 
+172	<ent> has blocked on <plat>	15.0	 has blocked on 
+173	<plat> has suspended <ent>	15.0	 has suspended 
+174	<ent> was kicked off <plat>	15.0	 was kicked off 
+175	<plat> banned in <ent>	15.0	 banned in 
+176	<plat> signals <ent>	14.0	 signals 
+177	<ent> just banned <plat>	14.0	 just banned 
+178	<plat> so vague about banning <ent>	14.0	 so vague about banning 
+179	<plat> suspend <ent>	14.0	 suspend 
+180	<plat> responds to calls to suspend <ent>	14.0	 responds to calls to suspend 
+181	<ent> banned by <plat>	14.0	 banned by 
+182	<ent> calls out <plat>	14.0	 calls out 
+183	<plat> bans more <ent>	14.0	 bans more 

@@ -1,5 +1,3 @@
-Penser à mettre tous les requirements de libraires comme moi j'ai utilisé
-
 # Who was deplatformed where?
 
 This project was carried on as a Master's semester project, under the supervision of Manoel Horta Ribiero and Professor West from the DLAB at EPFL. The goal of this project is to create a precise and large-scale dataset of deplatforming on various social media platforms. This dataset will then allow to conduct an analysis on the effect of deplatforming on the popularity or attention the banned entity receives.
